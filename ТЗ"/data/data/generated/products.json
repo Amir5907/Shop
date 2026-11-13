@@ -1,0 +1,6322 @@
+[
+ {
+  "id": 1,
+  "name": "Лампа #1",
+  "category": "Дом",
+  "price": "26.31",
+  "stock": 38,
+  "min_stock": 4
+ },
+ {
+  "id": 2,
+  "name": "Кроссовки #2",
+  "category": "Одежда",
+  "price": "102.19",
+  "stock": 42,
+  "min_stock": 3
+ },
+ {
+  "id": 3,
+  "name": "Шапка #3",
+  "category": "Одежда",
+  "price": "180.47",
+  "stock": 33,
+  "min_stock": 13
+ },
+ {
+  "id": 4,
+  "name": "Шапка #4",
+  "category": "Одежда",
+  "price": "55.42",
+  "stock": 24,
+  "min_stock": 5
+ },
+ {
+  "id": 5,
+  "name": "Комикс #5",
+  "category": "Книги",
+  "price": "235.01",
+  "stock": 48,
+  "min_stock": 8
+ },
+ {
+  "id": 6,
+  "name": "Гантели #6",
+  "category": "Спорт",
+  "price": "103.54",
+  "stock": 59,
+  "min_stock": 10
+ },
+ {
+  "id": 7,
+  "name": "Справочник #7",
+  "category": "Книги",
+  "price": "97.87",
+  "stock": 11,
+  "min_stock": 7
+ },
+ {
+  "id": 8,
+  "name": "Куртка #8",
+  "category": "Одежда",
+  "price": "225.41",
+  "stock": 35,
+  "min_stock": 7
+ },
+ {
+  "id": 9,
+  "name": "Чайник #9",
+  "category": "Дом",
+  "price": "58.46",
+  "stock": 18,
+  "min_stock": 12
+ },
+ {
+  "id": 10,
+  "name": "Мышь #10",
+  "category": "Электроника",
+  "price": "174.41",
+  "stock": 62,
+  "min_stock": 8
+ },
+ {
+  "id": 11,
+  "name": "Наушники #11",
+  "category": "Электроника",
+  "price": "122.25",
+  "stock": 39,
+  "min_stock": 4
+ },
+ {
+  "id": 12,
+  "name": "Зарядка #12",
+  "category": "Электроника",
+  "price": "299.02",
+  "stock": 61,
+  "min_stock": 5
+ },
+ {
+  "id": 13,
+  "name": "Зарядка #13",
+  "category": "Электроника",
+  "price": "100.78",
+  "stock": 35,
+  "min_stock": 13
+ },
+ {
+  "id": 14,
+  "name": "Кроссовки #14",
+  "category": "Одежда",
+  "price": "133.05",
+  "stock": 20,
+  "min_stock": 2
+ },
+ {
+  "id": 15,
+  "name": "Гантели #15",
+  "category": "Спорт",
+  "price": "105.46",
+  "stock": 53,
+  "min_stock": 9
+ },
+ {
+  "id": 16,
+  "name": "Куртка #16",
+  "category": "Одежда",
+  "price": "25.53",
+  "stock": 26,
+  "min_stock": 14
+ },
+ {
+  "id": 17,
+  "name": "Коврик #17",
+  "category": "Спорт",
+  "price": "289.06",
+  "stock": 30,
+  "min_stock": 5
+ },
+ {
+  "id": 18,
+  "name": "Мяч #18",
+  "category": "Спорт",
+  "price": "140.88",
+  "stock": 34,
+  "min_stock": 6
+ },
+ {
+  "id": 19,
+  "name": "Справочник #19",
+  "category": "Книги",
+  "price": "229.69",
+  "stock": 55,
+  "min_stock": 11
+ },
+ {
+  "id": 20,
+  "name": "Мышь #20",
+  "category": "Электроника",
+  "price": "285.98",
+  "stock": 11,
+  "min_stock": 10
+ },
+ {
+  "id": 21,
+  "name": "Чайник #21",
+  "category": "Дом",
+  "price": "157.16",
+  "stock": 36,
+  "min_stock": 3
+ },
+ {
+  "id": 22,
+  "name": "Мяч #22",
+  "category": "Спорт",
+  "price": "169.49",
+  "stock": 44,
+  "min_stock": 10
+ },
+ {
+  "id": 23,
+  "name": "Велошлем #23",
+  "category": "Спорт",
+  "price": "157.55",
+  "stock": 27,
+  "min_stock": 13
+ },
+ {
+  "id": 24,
+  "name": "Роман #24",
+  "category": "Книги",
+  "price": "116.76",
+  "stock": 43,
+  "min_stock": 2
+ },
+ {
+  "id": 25,
+  "name": "Лампа #25",
+  "category": "Дом",
+  "price": "239.78",
+  "stock": 56,
+  "min_stock": 2
+ },
+ {
+  "id": 26,
+  "name": "Сковорода #26",
+  "category": "Дом",
+  "price": "199.14",
+  "stock": 22,
+  "min_stock": 15
+ },
+ {
+  "id": 27,
+  "name": "Комикс #27",
+  "category": "Книги",
+  "price": "171.96",
+  "stock": 69,
+  "min_stock": 6
+ },
+ {
+  "id": 28,
+  "name": "Колонка #28",
+  "category": "Электроника",
+  "price": "145.39",
+  "stock": 33,
+  "min_stock": 13
+ },
+ {
+  "id": 29,
+  "name": "Куртка #29",
+  "category": "Одежда",
+  "price": "217.81",
+  "stock": 46,
+  "min_stock": 14
+ },
+ {
+  "id": 30,
+  "name": "Наушники #30",
+  "category": "Электроника",
+  "price": "12.26",
+  "stock": 22,
+  "min_stock": 8
+ },
+ {
+  "id": 31,
+  "name": "Мышь #31",
+  "category": "Электроника",
+  "price": "43.55",
+  "stock": 40,
+  "min_stock": 10
+ },
+ {
+  "id": 32,
+  "name": "Чайник #32",
+  "category": "Дом",
+  "price": "78.25",
+  "stock": 44,
+  "min_stock": 7
+ },
+ {
+  "id": 33,
+  "name": "Планшет #33",
+  "category": "Электроника",
+  "price": "48.81",
+  "stock": 20,
+  "min_stock": 7
+ },
+ {
+  "id": 34,
+  "name": "Шапка #34",
+  "category": "Одежда",
+  "price": "6.81",
+  "stock": 26,
+  "min_stock": 6
+ },
+ {
+  "id": 35,
+  "name": "Учебник Python #35",
+  "category": "Книги",
+  "price": "248.28",
+  "stock": 41,
+  "min_stock": 13
+ },
+ {
+  "id": 36,
+  "name": "Джинсы #36",
+  "category": "Одежда",
+  "price": "79.80",
+  "stock": 32,
+  "min_stock": 14
+ },
+ {
+  "id": 37,
+  "name": "Смартфон #37",
+  "category": "Электроника",
+  "price": "116.94",
+  "stock": 30,
+  "min_stock": 13
+ },
+ {
+  "id": 38,
+  "name": "Велошлем #38",
+  "category": "Спорт",
+  "price": "199.00",
+  "stock": 19,
+  "min_stock": 14
+ },
+ {
+  "id": 39,
+  "name": "Смартфон #39",
+  "category": "Электроника",
+  "price": "181.25",
+  "stock": 12,
+  "min_stock": 6
+ },
+ {
+  "id": 40,
+  "name": "Кружка #40",
+  "category": "Дом",
+  "price": "86.00",
+  "stock": 13,
+  "min_stock": 9
+ },
+ {
+  "id": 41,
+  "name": "Колонка #41",
+  "category": "Электроника",
+  "price": "208.41",
+  "stock": 26,
+  "min_stock": 15
+ },
+ {
+  "id": 42,
+  "name": "Футболка #42",
+  "category": "Одежда",
+  "price": "31.54",
+  "stock": 36,
+  "min_stock": 8
+ },
+ {
+  "id": 43,
+  "name": "Справочник #43",
+  "category": "Книги",
+  "price": "30.14",
+  "stock": 46,
+  "min_stock": 6
+ },
+ {
+  "id": 44,
+  "name": "Планшет #44",
+  "category": "Электроника",
+  "price": "260.93",
+  "stock": 43,
+  "min_stock": 8
+ },
+ {
+  "id": 45,
+  "name": "Наушники #45",
+  "category": "Электроника",
+  "price": "3.38",
+  "stock": 33,
+  "min_stock": 12
+ },
+ {
+  "id": 46,
+  "name": "Комикс #46",
+  "category": "Книги",
+  "price": "282.84",
+  "stock": 39,
+  "min_stock": 4
+ },
+ {
+  "id": 47,
+  "name": "Куртка #47",
+  "category": "Одежда",
+  "price": "137.23",
+  "stock": 11,
+  "min_stock": 13
+ },
+ {
+  "id": 48,
+  "name": "Наушники #48",
+  "category": "Электроника",
+  "price": "244.07",
+  "stock": 45,
+  "min_stock": 2
+ },
+ {
+  "id": 49,
+  "name": "Сковорода #49",
+  "category": "Дом",
+  "price": "191.09",
+  "stock": 28,
+  "min_stock": 6
+ },
+ {
+  "id": 50,
+  "name": "Плед #50",
+  "category": "Дом",
+  "price": "206.77",
+  "stock": 31,
+  "min_stock": 15
+ },
+ {
+  "id": 51,
+  "name": "Справочник #51",
+  "category": "Книги",
+  "price": "279.90",
+  "stock": 40,
+  "min_stock": 6
+ },
+ {
+  "id": 52,
+  "name": "Роман #52",
+  "category": "Книги",
+  "price": "101.41",
+  "stock": 21,
+  "min_stock": 10
+ },
+ {
+  "id": 53,
+  "name": "Шапка #53",
+  "category": "Одежда",
+  "price": "216.59",
+  "stock": 48,
+  "min_stock": 3
+ },
+ {
+  "id": 54,
+  "name": "Кроссовки #54",
+  "category": "Одежда",
+  "price": "272.18",
+  "stock": 41,
+  "min_stock": 7
+ },
+ {
+  "id": 55,
+  "name": "Кружка #55",
+  "category": "Дом",
+  "price": "151.14",
+  "stock": 60,
+  "min_stock": 5
+ },
+ {
+  "id": 56,
+  "name": "Комикс #56",
+  "category": "Книги",
+  "price": "90.38",
+  "stock": 19,
+  "min_stock": 11
+ },
+ {
+  "id": 57,
+  "name": "Гантели #57",
+  "category": "Спорт",
+  "price": "251.73",
+  "stock": 11,
+  "min_stock": 4
+ },
+ {
+  "id": 58,
+  "name": "Справочник #58",
+  "category": "Книги",
+  "price": "133.54",
+  "stock": 26,
+  "min_stock": 3
+ },
+ {
+  "id": 59,
+  "name": "Гантели #59",
+  "category": "Спорт",
+  "price": "151.05",
+  "stock": 30,
+  "min_stock": 2
+ },
+ {
+  "id": 60,
+  "name": "Шапка #60",
+  "category": "Одежда",
+  "price": "4.41",
+  "stock": 42,
+  "min_stock": 12
+ },
+ {
+  "id": 61,
+  "name": "Комикс #61",
+  "category": "Книги",
+  "price": "257.23",
+  "stock": 34,
+  "min_stock": 5
+ },
+ {
+  "id": 62,
+  "name": "Джинсы #62",
+  "category": "Одежда",
+  "price": "116.74",
+  "stock": 44,
+  "min_stock": 12
+ },
+ {
+  "id": 63,
+  "name": "Кроссовки #63",
+  "category": "Одежда",
+  "price": "169.16",
+  "stock": 41,
+  "min_stock": 13
+ },
+ {
+  "id": 64,
+  "name": "Шапка #64",
+  "category": "Одежда",
+  "price": "126.85",
+  "stock": 42,
+  "min_stock": 14
+ },
+ {
+  "id": 65,
+  "name": "Зарядка #65",
+  "category": "Электроника",
+  "price": "17.71",
+  "stock": 47,
+  "min_stock": 4
+ },
+ {
+  "id": 66,
+  "name": "Шапка #66",
+  "category": "Одежда",
+  "price": "169.09",
+  "stock": 57,
+  "min_stock": 8
+ },
+ {
+  "id": 67,
+  "name": "Справочник #67",
+  "category": "Книги",
+  "price": "235.82",
+  "stock": 21,
+  "min_stock": 7
+ },
+ {
+  "id": 68,
+  "name": "Мяч #68",
+  "category": "Спорт",
+  "price": "289.23",
+  "stock": 49,
+  "min_stock": 11
+ },
+ {
+  "id": 69,
+  "name": "Учебник Python #69",
+  "category": "Книги",
+  "price": "261.91",
+  "stock": 31,
+  "min_stock": 4
+ },
+ {
+  "id": 70,
+  "name": "Справочник #70",
+  "category": "Книги",
+  "price": "216.30",
+  "stock": 55,
+  "min_stock": 3
+ },
+ {
+  "id": 71,
+  "name": "Мышь #71",
+  "category": "Электроника",
+  "price": "13.99",
+  "stock": 45,
+  "min_stock": 9
+ },
+ {
+  "id": 72,
+  "name": "Роман #72",
+  "category": "Книги",
+  "price": "54.85",
+  "stock": 49,
+  "min_stock": 15
+ },
+ {
+  "id": 73,
+  "name": "Футболка #73",
+  "category": "Одежда",
+  "price": "31.37",
+  "stock": 20,
+  "min_stock": 8
+ },
+ {
+  "id": 74,
+  "name": "Велошлем #74",
+  "category": "Спорт",
+  "price": "189.33",
+  "stock": 55,
+  "min_stock": 13
+ },
+ {
+  "id": 75,
+  "name": "Футболка #75",
+  "category": "Одежда",
+  "price": "112.52",
+  "stock": 27,
+  "min_stock": 2
+ },
+ {
+  "id": 76,
+  "name": "Комикс #76",
+  "category": "Книги",
+  "price": "17.99",
+  "stock": 22,
+  "min_stock": 10
+ },
+ {
+  "id": 77,
+  "name": "Лампа #77",
+  "category": "Дом",
+  "price": "265.86",
+  "stock": 52,
+  "min_stock": 8
+ },
+ {
+  "id": 78,
+  "name": "Смартфон #78",
+  "category": "Электроника",
+  "price": "54.70",
+  "stock": 53,
+  "min_stock": 6
+ },
+ {
+  "id": 79,
+  "name": "Лампа #79",
+  "category": "Дом",
+  "price": "132.03",
+  "stock": 46,
+  "min_stock": 11
+ },
+ {
+  "id": 80,
+  "name": "Коврик #80",
+  "category": "Спорт",
+  "price": "45.32",
+  "stock": 35,
+  "min_stock": 7
+ },
+ {
+  "id": 81,
+  "name": "Кроссовки #81",
+  "category": "Одежда",
+  "price": "98.57",
+  "stock": 28,
+  "min_stock": 14
+ },
+ {
+  "id": 82,
+  "name": "Чайник #82",
+  "category": "Дом",
+  "price": "120.12",
+  "stock": 47,
+  "min_stock": 7
+ },
+ {
+  "id": 83,
+  "name": "Кроссовки #83",
+  "category": "Одежда",
+  "price": "66.17",
+  "stock": 61,
+  "min_stock": 9
+ },
+ {
+  "id": 84,
+  "name": "Куртка #84",
+  "category": "Одежда",
+  "price": "246.60",
+  "stock": 18,
+  "min_stock": 8
+ },
+ {
+  "id": 85,
+  "name": "Коврик #85",
+  "category": "Спорт",
+  "price": "87.72",
+  "stock": 14,
+  "min_stock": 9
+ },
+ {
+  "id": 86,
+  "name": "Чайник #86",
+  "category": "Дом",
+  "price": "248.24",
+  "stock": 16,
+  "min_stock": 13
+ },
+ {
+  "id": 87,
+  "name": "Учебник Python #87",
+  "category": "Книги",
+  "price": "200.78",
+  "stock": 28,
+  "min_stock": 9
+ },
+ {
+  "id": 88,
+  "name": "Учебник Python #88",
+  "category": "Книги",
+  "price": "71.72",
+  "stock": 57,
+  "min_stock": 15
+ },
+ {
+  "id": 89,
+  "name": "Джинсы #89",
+  "category": "Одежда",
+  "price": "176.70",
+  "stock": 34,
+  "min_stock": 11
+ },
+ {
+  "id": 90,
+  "name": "Гантели #90",
+  "category": "Спорт",
+  "price": "76.43",
+  "stock": 61,
+  "min_stock": 4
+ },
+ {
+  "id": 91,
+  "name": "Сковорода #91",
+  "category": "Дом",
+  "price": "50.56",
+  "stock": 20,
+  "min_stock": 10
+ },
+ {
+  "id": 92,
+  "name": "Джинсы #92",
+  "category": "Одежда",
+  "price": "289.36",
+  "stock": 45,
+  "min_stock": 3
+ },
+ {
+  "id": 93,
+  "name": "Велошлем #93",
+  "category": "Спорт",
+  "price": "33.15",
+  "stock": 48,
+  "min_stock": 2
+ },
+ {
+  "id": 94,
+  "name": "Плед #94",
+  "category": "Дом",
+  "price": "207.71",
+  "stock": 25,
+  "min_stock": 11
+ },
+ {
+  "id": 95,
+  "name": "Учебник Python #95",
+  "category": "Книги",
+  "price": "103.84",
+  "stock": 11,
+  "min_stock": 7
+ },
+ {
+  "id": 96,
+  "name": "Кружка #96",
+  "category": "Дом",
+  "price": "115.56",
+  "stock": 54,
+  "min_stock": 13
+ },
+ {
+  "id": 97,
+  "name": "Сковорода #97",
+  "category": "Дом",
+  "price": "148.87",
+  "stock": 48,
+  "min_stock": 3
+ },
+ {
+  "id": 98,
+  "name": "Комикс #98",
+  "category": "Книги",
+  "price": "68.88",
+  "stock": 25,
+  "min_stock": 2
+ },
+ {
+  "id": 99,
+  "name": "Наушники #99",
+  "category": "Электроника",
+  "price": "229.95",
+  "stock": 19,
+  "min_stock": 13
+ },
+ {
+  "id": 100,
+  "name": "Джинсы #100",
+  "category": "Одежда",
+  "price": "52.76",
+  "stock": 26,
+  "min_stock": 14
+ },
+ {
+  "id": 101,
+  "name": "Планшет #101",
+  "category": "Электроника",
+  "price": "228.98",
+  "stock": 48,
+  "min_stock": 2
+ },
+ {
+  "id": 102,
+  "name": "Учебник Python #102",
+  "category": "Книги",
+  "price": "85.17",
+  "stock": 26,
+  "min_stock": 12
+ },
+ {
+  "id": 103,
+  "name": "Роман #103",
+  "category": "Книги",
+  "price": "60.93",
+  "stock": 42,
+  "min_stock": 2
+ },
+ {
+  "id": 104,
+  "name": "Комикс #104",
+  "category": "Книги",
+  "price": "268.39",
+  "stock": 54,
+  "min_stock": 12
+ },
+ {
+  "id": 105,
+  "name": "Гантели #105",
+  "category": "Спорт",
+  "price": "292.59",
+  "stock": 52,
+  "min_stock": 11
+ },
+ {
+  "id": 106,
+  "name": "Велошлем #106",
+  "category": "Спорт",
+  "price": "121.16",
+  "stock": 27,
+  "min_stock": 4
+ },
+ {
+  "id": 107,
+  "name": "Куртка #107",
+  "category": "Одежда",
+  "price": "26.25",
+  "stock": 57,
+  "min_stock": 15
+ },
+ {
+  "id": 108,
+  "name": "Футболка #108",
+  "category": "Одежда",
+  "price": "23.50",
+  "stock": 21,
+  "min_stock": 7
+ },
+ {
+  "id": 109,
+  "name": "Сковорода #109",
+  "category": "Дом",
+  "price": "19.17",
+  "stock": 31,
+  "min_stock": 15
+ },
+ {
+  "id": 110,
+  "name": "Лампа #110",
+  "category": "Дом",
+  "price": "263.92",
+  "stock": 59,
+  "min_stock": 8
+ },
+ {
+  "id": 111,
+  "name": "Справочник #111",
+  "category": "Книги",
+  "price": "296.11",
+  "stock": 54,
+  "min_stock": 4
+ },
+ {
+  "id": 112,
+  "name": "Куртка #112",
+  "category": "Одежда",
+  "price": "262.02",
+  "stock": 22,
+  "min_stock": 4
+ },
+ {
+  "id": 113,
+  "name": "Кроссовки #113",
+  "category": "Одежда",
+  "price": "45.06",
+  "stock": 43,
+  "min_stock": 5
+ },
+ {
+  "id": 114,
+  "name": "Мяч #114",
+  "category": "Спорт",
+  "price": "278.43",
+  "stock": 49,
+  "min_stock": 15
+ },
+ {
+  "id": 115,
+  "name": "Коврик #115",
+  "category": "Спорт",
+  "price": "174.00",
+  "stock": 79,
+  "min_stock": 13
+ },
+ {
+  "id": 116,
+  "name": "Сковорода #116",
+  "category": "Дом",
+  "price": "61.37",
+  "stock": 39,
+  "min_stock": 3
+ },
+ {
+  "id": 117,
+  "name": "Учебник Python #117",
+  "category": "Книги",
+  "price": "91.17",
+  "stock": 56,
+  "min_stock": 8
+ },
+ {
+  "id": 118,
+  "name": "Зарядка #118",
+  "category": "Электроника",
+  "price": "2.09",
+  "stock": 28,
+  "min_stock": 15
+ },
+ {
+  "id": 119,
+  "name": "Сковорода #119",
+  "category": "Дом",
+  "price": "92.39",
+  "stock": 57,
+  "min_stock": 5
+ },
+ {
+  "id": 120,
+  "name": "Коврик #120",
+  "category": "Спорт",
+  "price": "135.24",
+  "stock": 24,
+  "min_stock": 13
+ },
+ {
+  "id": 121,
+  "name": "Комикс #121",
+  "category": "Книги",
+  "price": "130.52",
+  "stock": 24,
+  "min_stock": 2
+ },
+ {
+  "id": 122,
+  "name": "Смартфон #122",
+  "category": "Электроника",
+  "price": "166.85",
+  "stock": 35,
+  "min_stock": 11
+ },
+ {
+  "id": 123,
+  "name": "Плед #123",
+  "category": "Дом",
+  "price": "135.58",
+  "stock": 45,
+  "min_stock": 15
+ },
+ {
+  "id": 124,
+  "name": "Чайник #124",
+  "category": "Дом",
+  "price": "269.72",
+  "stock": 37,
+  "min_stock": 15
+ },
+ {
+  "id": 125,
+  "name": "Комикс #125",
+  "category": "Книги",
+  "price": "217.94",
+  "stock": 47,
+  "min_stock": 14
+ },
+ {
+  "id": 126,
+  "name": "Футболка #126",
+  "category": "Одежда",
+  "price": "11.92",
+  "stock": 28,
+  "min_stock": 12
+ },
+ {
+  "id": 127,
+  "name": "Велошлем #127",
+  "category": "Спорт",
+  "price": "117.70",
+  "stock": 32,
+  "min_stock": 4
+ },
+ {
+  "id": 128,
+  "name": "Шапка #128",
+  "category": "Одежда",
+  "price": "107.42",
+  "stock": 11,
+  "min_stock": 9
+ },
+ {
+  "id": 129,
+  "name": "Учебник Python #129",
+  "category": "Книги",
+  "price": "289.18",
+  "stock": 46,
+  "min_stock": 12
+ },
+ {
+  "id": 130,
+  "name": "Смартфон #130",
+  "category": "Электроника",
+  "price": "263.07",
+  "stock": 19,
+  "min_stock": 8
+ },
+ {
+  "id": 131,
+  "name": "Смартфон #131",
+  "category": "Электроника",
+  "price": "195.86",
+  "stock": 20,
+  "min_stock": 14
+ },
+ {
+  "id": 132,
+  "name": "Мышь #132",
+  "category": "Электроника",
+  "price": "238.72",
+  "stock": 10,
+  "min_stock": 6
+ },
+ {
+  "id": 133,
+  "name": "Гантели #133",
+  "category": "Спорт",
+  "price": "31.31",
+  "stock": 51,
+  "min_stock": 14
+ },
+ {
+  "id": 134,
+  "name": "Плед #134",
+  "category": "Дом",
+  "price": "137.45",
+  "stock": 61,
+  "min_stock": 2
+ },
+ {
+  "id": 135,
+  "name": "Смартфон #135",
+  "category": "Электроника",
+  "price": "12.84",
+  "stock": 24,
+  "min_stock": 15
+ },
+ {
+  "id": 136,
+  "name": "Колонка #136",
+  "category": "Электроника",
+  "price": "27.46",
+  "stock": 23,
+  "min_stock": 13
+ },
+ {
+  "id": 137,
+  "name": "Зарядка #137",
+  "category": "Электроника",
+  "price": "58.25",
+  "stock": 23,
+  "min_stock": 5
+ },
+ {
+  "id": 138,
+  "name": "Роман #138",
+  "category": "Книги",
+  "price": "226.25",
+  "stock": 33,
+  "min_stock": 9
+ },
+ {
+  "id": 139,
+  "name": "Учебник Python #139",
+  "category": "Книги",
+  "price": "286.25",
+  "stock": 27,
+  "min_stock": 14
+ },
+ {
+  "id": 140,
+  "name": "Шапка #140",
+  "category": "Одежда",
+  "price": "267.15",
+  "stock": 29,
+  "min_stock": 14
+ },
+ {
+  "id": 141,
+  "name": "Роман #141",
+  "category": "Книги",
+  "price": "214.61",
+  "stock": 31,
+  "min_stock": 4
+ },
+ {
+  "id": 142,
+  "name": "Колонка #142",
+  "category": "Электроника",
+  "price": "221.37",
+  "stock": 19,
+  "min_stock": 8
+ },
+ {
+  "id": 143,
+  "name": "Зарядка #143",
+  "category": "Электроника",
+  "price": "101.70",
+  "stock": 75,
+  "min_stock": 10
+ },
+ {
+  "id": 144,
+  "name": "Мяч #144",
+  "category": "Спорт",
+  "price": "270.47",
+  "stock": 37,
+  "min_stock": 12
+ },
+ {
+  "id": 145,
+  "name": "Лампа #145",
+  "category": "Дом",
+  "price": "10.07",
+  "stock": 12,
+  "min_stock": 2
+ },
+ {
+  "id": 146,
+  "name": "Лампа #146",
+  "category": "Дом",
+  "price": "31.33",
+  "stock": 16,
+  "min_stock": 13
+ },
+ {
+  "id": 147,
+  "name": "Наушники #147",
+  "category": "Электроника",
+  "price": "253.30",
+  "stock": 43,
+  "min_stock": 5
+ },
+ {
+  "id": 148,
+  "name": "Сковорода #148",
+  "category": "Дом",
+  "price": "216.22",
+  "stock": 42,
+  "min_stock": 11
+ },
+ {
+  "id": 149,
+  "name": "Гантели #149",
+  "category": "Спорт",
+  "price": "42.46",
+  "stock": 38,
+  "min_stock": 13
+ },
+ {
+  "id": 150,
+  "name": "Кружка #150",
+  "category": "Дом",
+  "price": "289.44",
+  "stock": 9,
+  "min_stock": 14
+ },
+ {
+  "id": 151,
+  "name": "Мяч #151",
+  "category": "Спорт",
+  "price": "184.25",
+  "stock": 42,
+  "min_stock": 14
+ },
+ {
+  "id": 152,
+  "name": "Учебник Python #152",
+  "category": "Книги",
+  "price": "212.70",
+  "stock": 33,
+  "min_stock": 5
+ },
+ {
+  "id": 153,
+  "name": "Плед #153",
+  "category": "Дом",
+  "price": "153.70",
+  "stock": 29,
+  "min_stock": 8
+ },
+ {
+  "id": 154,
+  "name": "Планшет #154",
+  "category": "Электроника",
+  "price": "97.64",
+  "stock": 57,
+  "min_stock": 7
+ },
+ {
+  "id": 155,
+  "name": "Коврик #155",
+  "category": "Спорт",
+  "price": "141.27",
+  "stock": 53,
+  "min_stock": 11
+ },
+ {
+  "id": 156,
+  "name": "Куртка #156",
+  "category": "Одежда",
+  "price": "107.43",
+  "stock": 19,
+  "min_stock": 13
+ },
+ {
+  "id": 157,
+  "name": "Зарядка #157",
+  "category": "Электроника",
+  "price": "218.27",
+  "stock": 30,
+  "min_stock": 15
+ },
+ {
+  "id": 158,
+  "name": "Футболка #158",
+  "category": "Одежда",
+  "price": "76.54",
+  "stock": 37,
+  "min_stock": 7
+ },
+ {
+  "id": 159,
+  "name": "Комикс #159",
+  "category": "Книги",
+  "price": "194.34",
+  "stock": 19,
+  "min_stock": 7
+ },
+ {
+  "id": 160,
+  "name": "Учебник Python #160",
+  "category": "Книги",
+  "price": "168.98",
+  "stock": 50,
+  "min_stock": 13
+ },
+ {
+  "id": 161,
+  "name": "Сковорода #161",
+  "category": "Дом",
+  "price": "4.37",
+  "stock": 18,
+  "min_stock": 4
+ },
+ {
+  "id": 162,
+  "name": "Наушники #162",
+  "category": "Электроника",
+  "price": "229.46",
+  "stock": 53,
+  "min_stock": 9
+ },
+ {
+  "id": 163,
+  "name": "Лампа #163",
+  "category": "Дом",
+  "price": "204.72",
+  "stock": 41,
+  "min_stock": 8
+ },
+ {
+  "id": 164,
+  "name": "Мышь #164",
+  "category": "Электроника",
+  "price": "268.12",
+  "stock": 42,
+  "min_stock": 3
+ },
+ {
+  "id": 165,
+  "name": "Наушники #165",
+  "category": "Электроника",
+  "price": "232.83",
+  "stock": 38,
+  "min_stock": 14
+ },
+ {
+  "id": 166,
+  "name": "Учебник Python #166",
+  "category": "Книги",
+  "price": "79.69",
+  "stock": 41,
+  "min_stock": 3
+ },
+ {
+  "id": 167,
+  "name": "Планшет #167",
+  "category": "Электроника",
+  "price": "190.90",
+  "stock": 24,
+  "min_stock": 13
+ },
+ {
+  "id": 168,
+  "name": "Комикс #168",
+  "category": "Книги",
+  "price": "58.31",
+  "stock": 39,
+  "min_stock": 12
+ },
+ {
+  "id": 169,
+  "name": "Коврик #169",
+  "category": "Спорт",
+  "price": "191.12",
+  "stock": 59,
+  "min_stock": 12
+ },
+ {
+  "id": 170,
+  "name": "Зарядка #170",
+  "category": "Электроника",
+  "price": "142.25",
+  "stock": 49,
+  "min_stock": 8
+ },
+ {
+  "id": 171,
+  "name": "Гантели #171",
+  "category": "Спорт",
+  "price": "145.02",
+  "stock": 34,
+  "min_stock": 9
+ },
+ {
+  "id": 172,
+  "name": "Кружка #172",
+  "category": "Дом",
+  "price": "116.75",
+  "stock": 8,
+  "min_stock": 8
+ },
+ {
+  "id": 173,
+  "name": "Мяч #173",
+  "category": "Спорт",
+  "price": "285.42",
+  "stock": 51,
+  "min_stock": 5
+ },
+ {
+  "id": 174,
+  "name": "Футболка #174",
+  "category": "Одежда",
+  "price": "164.68",
+  "stock": 22,
+  "min_stock": 5
+ },
+ {
+  "id": 175,
+  "name": "Смартфон #175",
+  "category": "Электроника",
+  "price": "279.00",
+  "stock": 48,
+  "min_stock": 8
+ },
+ {
+  "id": 176,
+  "name": "Гантели #176",
+  "category": "Спорт",
+  "price": "219.32",
+  "stock": 45,
+  "min_stock": 3
+ },
+ {
+  "id": 177,
+  "name": "Велошлем #177",
+  "category": "Спорт",
+  "price": "131.89",
+  "stock": 22,
+  "min_stock": 13
+ },
+ {
+  "id": 178,
+  "name": "Мяч #178",
+  "category": "Спорт",
+  "price": "254.19",
+  "stock": 48,
+  "min_stock": 3
+ },
+ {
+  "id": 179,
+  "name": "Справочник #179",
+  "category": "Книги",
+  "price": "170.82",
+  "stock": 49,
+  "min_stock": 10
+ },
+ {
+  "id": 180,
+  "name": "Чайник #180",
+  "category": "Дом",
+  "price": "211.07",
+  "stock": 47,
+  "min_stock": 10
+ },
+ {
+  "id": 181,
+  "name": "Гантели #181",
+  "category": "Спорт",
+  "price": "272.38",
+  "stock": 53,
+  "min_stock": 8
+ },
+ {
+  "id": 182,
+  "name": "Лампа #182",
+  "category": "Дом",
+  "price": "291.05",
+  "stock": 44,
+  "min_stock": 7
+ },
+ {
+  "id": 183,
+  "name": "Чайник #183",
+  "category": "Дом",
+  "price": "183.80",
+  "stock": 11,
+  "min_stock": 7
+ },
+ {
+  "id": 184,
+  "name": "Куртка #184",
+  "category": "Одежда",
+  "price": "104.15",
+  "stock": 41,
+  "min_stock": 10
+ },
+ {
+  "id": 185,
+  "name": "Коврик #185",
+  "category": "Спорт",
+  "price": "113.81",
+  "stock": 46,
+  "min_stock": 8
+ },
+ {
+  "id": 186,
+  "name": "Зарядка #186",
+  "category": "Электроника",
+  "price": "253.69",
+  "stock": 50,
+  "min_stock": 14
+ },
+ {
+  "id": 187,
+  "name": "Джинсы #187",
+  "category": "Одежда",
+  "price": "94.37",
+  "stock": 38,
+  "min_stock": 15
+ },
+ {
+  "id": 188,
+  "name": "Колонка #188",
+  "category": "Электроника",
+  "price": "30.83",
+  "stock": 16,
+  "min_stock": 2
+ },
+ {
+  "id": 189,
+  "name": "Сковорода #189",
+  "category": "Дом",
+  "price": "58.85",
+  "stock": 45,
+  "min_stock": 11
+ },
+ {
+  "id": 190,
+  "name": "Учебник Python #190",
+  "category": "Книги",
+  "price": "294.77",
+  "stock": 44,
+  "min_stock": 5
+ },
+ {
+  "id": 191,
+  "name": "Учебник Python #191",
+  "category": "Книги",
+  "price": "216.22",
+  "stock": 33,
+  "min_stock": 10
+ },
+ {
+  "id": 192,
+  "name": "Справочник #192",
+  "category": "Книги",
+  "price": "186.16",
+  "stock": 51,
+  "min_stock": 2
+ },
+ {
+  "id": 193,
+  "name": "Футболка #193",
+  "category": "Одежда",
+  "price": "115.19",
+  "stock": 51,
+  "min_stock": 7
+ },
+ {
+  "id": 194,
+  "name": "Справочник #194",
+  "category": "Книги",
+  "price": "11.85",
+  "stock": 47,
+  "min_stock": 12
+ },
+ {
+  "id": 195,
+  "name": "Кроссовки #195",
+  "category": "Одежда",
+  "price": "127.33",
+  "stock": 33,
+  "min_stock": 7
+ },
+ {
+  "id": 196,
+  "name": "Роман #196",
+  "category": "Книги",
+  "price": "24.09",
+  "stock": 44,
+  "min_stock": 14
+ },
+ {
+  "id": 197,
+  "name": "Сковорода #197",
+  "category": "Дом",
+  "price": "212.22",
+  "stock": 54,
+  "min_stock": 9
+ },
+ {
+  "id": 198,
+  "name": "Кружка #198",
+  "category": "Дом",
+  "price": "242.75",
+  "stock": 39,
+  "min_stock": 3
+ },
+ {
+  "id": 199,
+  "name": "Коврик #199",
+  "category": "Спорт",
+  "price": "260.96",
+  "stock": 41,
+  "min_stock": 15
+ },
+ {
+  "id": 200,
+  "name": "Джинсы #200",
+  "category": "Одежда",
+  "price": "229.43",
+  "stock": 31,
+  "min_stock": 13
+ },
+ {
+  "id": 201,
+  "name": "Лампа #201",
+  "category": "Дом",
+  "price": "199.20",
+  "stock": 32,
+  "min_stock": 6
+ },
+ {
+  "id": 202,
+  "name": "Мяч #202",
+  "category": "Спорт",
+  "price": "36.20",
+  "stock": 15,
+  "min_stock": 12
+ },
+ {
+  "id": 203,
+  "name": "Куртка #203",
+  "category": "Одежда",
+  "price": "50.74",
+  "stock": 11,
+  "min_stock": 5
+ },
+ {
+  "id": 204,
+  "name": "Мяч #204",
+  "category": "Спорт",
+  "price": "60.24",
+  "stock": 18,
+  "min_stock": 6
+ },
+ {
+  "id": 205,
+  "name": "Комикс #205",
+  "category": "Книги",
+  "price": "174.72",
+  "stock": 21,
+  "min_stock": 3
+ },
+ {
+  "id": 206,
+  "name": "Учебник Python #206",
+  "category": "Книги",
+  "price": "235.12",
+  "stock": 40,
+  "min_stock": 10
+ },
+ {
+  "id": 207,
+  "name": "Роман #207",
+  "category": "Книги",
+  "price": "69.47",
+  "stock": 22,
+  "min_stock": 11
+ },
+ {
+  "id": 208,
+  "name": "Чайник #208",
+  "category": "Дом",
+  "price": "11.34",
+  "stock": 31,
+  "min_stock": 14
+ },
+ {
+  "id": 209,
+  "name": "Зарядка #209",
+  "category": "Электроника",
+  "price": "148.97",
+  "stock": 7,
+  "min_stock": 11
+ },
+ {
+  "id": 210,
+  "name": "Лампа #210",
+  "category": "Дом",
+  "price": "106.86",
+  "stock": 25,
+  "min_stock": 8
+ },
+ {
+  "id": 211,
+  "name": "Кружка #211",
+  "category": "Дом",
+  "price": "219.78",
+  "stock": 26,
+  "min_stock": 5
+ },
+ {
+  "id": 212,
+  "name": "Зарядка #212",
+  "category": "Электроника",
+  "price": "91.16",
+  "stock": 38,
+  "min_stock": 13
+ },
+ {
+  "id": 213,
+  "name": "Плед #213",
+  "category": "Дом",
+  "price": "296.52",
+  "stock": 12,
+  "min_stock": 5
+ },
+ {
+  "id": 214,
+  "name": "Наушники #214",
+  "category": "Электроника",
+  "price": "256.50",
+  "stock": 28,
+  "min_stock": 5
+ },
+ {
+  "id": 215,
+  "name": "Мышь #215",
+  "category": "Электроника",
+  "price": "280.13",
+  "stock": 55,
+  "min_stock": 5
+ },
+ {
+  "id": 216,
+  "name": "Лампа #216",
+  "category": "Дом",
+  "price": "242.72",
+  "stock": 31,
+  "min_stock": 15
+ },
+ {
+  "id": 217,
+  "name": "Гантели #217",
+  "category": "Спорт",
+  "price": "212.72",
+  "stock": 43,
+  "min_stock": 13
+ },
+ {
+  "id": 218,
+  "name": "Велошлем #218",
+  "category": "Спорт",
+  "price": "125.20",
+  "stock": 24,
+  "min_stock": 11
+ },
+ {
+  "id": 219,
+  "name": "Коврик #219",
+  "category": "Спорт",
+  "price": "216.52",
+  "stock": 56,
+  "min_stock": 10
+ },
+ {
+  "id": 220,
+  "name": "Кружка #220",
+  "category": "Дом",
+  "price": "204.79",
+  "stock": 43,
+  "min_stock": 12
+ },
+ {
+  "id": 221,
+  "name": "Шапка #221",
+  "category": "Одежда",
+  "price": "278.73",
+  "stock": 41,
+  "min_stock": 14
+ },
+ {
+  "id": 222,
+  "name": "Велошлем #222",
+  "category": "Спорт",
+  "price": "285.92",
+  "stock": 37,
+  "min_stock": 7
+ },
+ {
+  "id": 223,
+  "name": "Сковорода #223",
+  "category": "Дом",
+  "price": "17.38",
+  "stock": 55,
+  "min_stock": 3
+ },
+ {
+  "id": 224,
+  "name": "Учебник Python #224",
+  "category": "Книги",
+  "price": "172.03",
+  "stock": 40,
+  "min_stock": 12
+ },
+ {
+  "id": 225,
+  "name": "Мяч #225",
+  "category": "Спорт",
+  "price": "76.10",
+  "stock": 34,
+  "min_stock": 10
+ },
+ {
+  "id": 226,
+  "name": "Плед #226",
+  "category": "Дом",
+  "price": "139.16",
+  "stock": 14,
+  "min_stock": 9
+ },
+ {
+  "id": 227,
+  "name": "Плед #227",
+  "category": "Дом",
+  "price": "243.34",
+  "stock": 9,
+  "min_stock": 5
+ },
+ {
+  "id": 228,
+  "name": "Велошлем #228",
+  "category": "Спорт",
+  "price": "124.45",
+  "stock": 10,
+  "min_stock": 15
+ },
+ {
+  "id": 229,
+  "name": "Велошлем #229",
+  "category": "Спорт",
+  "price": "78.06",
+  "stock": 53,
+  "min_stock": 6
+ },
+ {
+  "id": 230,
+  "name": "Учебник Python #230",
+  "category": "Книги",
+  "price": "226.95",
+  "stock": 23,
+  "min_stock": 7
+ },
+ {
+  "id": 231,
+  "name": "Футболка #231",
+  "category": "Одежда",
+  "price": "168.14",
+  "stock": 32,
+  "min_stock": 6
+ },
+ {
+  "id": 232,
+  "name": "Кроссовки #232",
+  "category": "Одежда",
+  "price": "155.74",
+  "stock": 28,
+  "min_stock": 6
+ },
+ {
+  "id": 233,
+  "name": "Чайник #233",
+  "category": "Дом",
+  "price": "299.29",
+  "stock": 43,
+  "min_stock": 5
+ },
+ {
+  "id": 234,
+  "name": "Зарядка #234",
+  "category": "Электроника",
+  "price": "10.86",
+  "stock": 26,
+  "min_stock": 15
+ },
+ {
+  "id": 235,
+  "name": "Лампа #235",
+  "category": "Дом",
+  "price": "74.70",
+  "stock": 28,
+  "min_stock": 5
+ },
+ {
+  "id": 236,
+  "name": "Гантели #236",
+  "category": "Спорт",
+  "price": "164.88",
+  "stock": 20,
+  "min_stock": 12
+ },
+ {
+  "id": 237,
+  "name": "Комикс #237",
+  "category": "Книги",
+  "price": "57.26",
+  "stock": 22,
+  "min_stock": 5
+ },
+ {
+  "id": 238,
+  "name": "Смартфон #238",
+  "category": "Электроника",
+  "price": "285.56",
+  "stock": 27,
+  "min_stock": 7
+ },
+ {
+  "id": 239,
+  "name": "Мяч #239",
+  "category": "Спорт",
+  "price": "117.37",
+  "stock": 29,
+  "min_stock": 5
+ },
+ {
+  "id": 240,
+  "name": "Мяч #240",
+  "category": "Спорт",
+  "price": "58.27",
+  "stock": 39,
+  "min_stock": 7
+ },
+ {
+  "id": 241,
+  "name": "Коврик #241",
+  "category": "Спорт",
+  "price": "107.65",
+  "stock": 33,
+  "min_stock": 11
+ },
+ {
+  "id": 242,
+  "name": "Роман #242",
+  "category": "Книги",
+  "price": "31.68",
+  "stock": 45,
+  "min_stock": 11
+ },
+ {
+  "id": 243,
+  "name": "Чайник #243",
+  "category": "Дом",
+  "price": "165.60",
+  "stock": 41,
+  "min_stock": 8
+ },
+ {
+  "id": 244,
+  "name": "Куртка #244",
+  "category": "Одежда",
+  "price": "85.88",
+  "stock": 42,
+  "min_stock": 8
+ },
+ {
+  "id": 245,
+  "name": "Роман #245",
+  "category": "Книги",
+  "price": "286.16",
+  "stock": 50,
+  "min_stock": 9
+ },
+ {
+  "id": 246,
+  "name": "Мышь #246",
+  "category": "Электроника",
+  "price": "199.21",
+  "stock": 53,
+  "min_stock": 7
+ },
+ {
+  "id": 247,
+  "name": "Смартфон #247",
+  "category": "Электроника",
+  "price": "119.49",
+  "stock": 28,
+  "min_stock": 5
+ },
+ {
+  "id": 248,
+  "name": "Сковорода #248",
+  "category": "Дом",
+  "price": "15.04",
+  "stock": 8,
+  "min_stock": 5
+ },
+ {
+  "id": 249,
+  "name": "Джинсы #249",
+  "category": "Одежда",
+  "price": "66.11",
+  "stock": 50,
+  "min_stock": 9
+ },
+ {
+  "id": 250,
+  "name": "Коврик #250",
+  "category": "Спорт",
+  "price": "143.62",
+  "stock": 36,
+  "min_stock": 4
+ },
+ {
+  "id": 251,
+  "name": "Куртка #251",
+  "category": "Одежда",
+  "price": "154.74",
+  "stock": 37,
+  "min_stock": 11
+ },
+ {
+  "id": 252,
+  "name": "Комикс #252",
+  "category": "Книги",
+  "price": "99.89",
+  "stock": 20,
+  "min_stock": 10
+ },
+ {
+  "id": 253,
+  "name": "Куртка #253",
+  "category": "Одежда",
+  "price": "35.16",
+  "stock": 26,
+  "min_stock": 5
+ },
+ {
+  "id": 254,
+  "name": "Гантели #254",
+  "category": "Спорт",
+  "price": "49.56",
+  "stock": 22,
+  "min_stock": 10
+ },
+ {
+  "id": 255,
+  "name": "Наушники #255",
+  "category": "Электроника",
+  "price": "185.26",
+  "stock": 25,
+  "min_stock": 9
+ },
+ {
+  "id": 256,
+  "name": "Смартфон #256",
+  "category": "Электроника",
+  "price": "241.10",
+  "stock": 10,
+  "min_stock": 5
+ },
+ {
+  "id": 257,
+  "name": "Шапка #257",
+  "category": "Одежда",
+  "price": "225.45",
+  "stock": 42,
+  "min_stock": 10
+ },
+ {
+  "id": 258,
+  "name": "Смартфон #258",
+  "category": "Электроника",
+  "price": "81.28",
+  "stock": 21,
+  "min_stock": 2
+ },
+ {
+  "id": 259,
+  "name": "Комикс #259",
+  "category": "Книги",
+  "price": "175.41",
+  "stock": 38,
+  "min_stock": 15
+ },
+ {
+  "id": 260,
+  "name": "Сковорода #260",
+  "category": "Дом",
+  "price": "124.32",
+  "stock": 19,
+  "min_stock": 8
+ },
+ {
+  "id": 261,
+  "name": "Велошлем #261",
+  "category": "Спорт",
+  "price": "280.96",
+  "stock": 54,
+  "min_stock": 15
+ },
+ {
+  "id": 262,
+  "name": "Велошлем #262",
+  "category": "Спорт",
+  "price": "224.06",
+  "stock": 37,
+  "min_stock": 5
+ },
+ {
+  "id": 263,
+  "name": "Мышь #263",
+  "category": "Электроника",
+  "price": "26.40",
+  "stock": 17,
+  "min_stock": 5
+ },
+ {
+  "id": 264,
+  "name": "Справочник #264",
+  "category": "Книги",
+  "price": "250.44",
+  "stock": 26,
+  "min_stock": 2
+ },
+ {
+  "id": 265,
+  "name": "Коврик #265",
+  "category": "Спорт",
+  "price": "162.31",
+  "stock": 27,
+  "min_stock": 4
+ },
+ {
+  "id": 266,
+  "name": "Куртка #266",
+  "category": "Одежда",
+  "price": "59.29",
+  "stock": 33,
+  "min_stock": 12
+ },
+ {
+  "id": 267,
+  "name": "Справочник #267",
+  "category": "Книги",
+  "price": "117.98",
+  "stock": 27,
+  "min_stock": 13
+ },
+ {
+  "id": 268,
+  "name": "Велошлем #268",
+  "category": "Спорт",
+  "price": "243.94",
+  "stock": 16,
+  "min_stock": 8
+ },
+ {
+  "id": 269,
+  "name": "Плед #269",
+  "category": "Дом",
+  "price": "55.88",
+  "stock": 25,
+  "min_stock": 9
+ },
+ {
+  "id": 270,
+  "name": "Роман #270",
+  "category": "Книги",
+  "price": "165.40",
+  "stock": 26,
+  "min_stock": 3
+ },
+ {
+  "id": 271,
+  "name": "Мяч #271",
+  "category": "Спорт",
+  "price": "91.23",
+  "stock": 24,
+  "min_stock": 12
+ },
+ {
+  "id": 272,
+  "name": "Велошлем #272",
+  "category": "Спорт",
+  "price": "208.43",
+  "stock": 10,
+  "min_stock": 3
+ },
+ {
+  "id": 273,
+  "name": "Гантели #273",
+  "category": "Спорт",
+  "price": "13.38",
+  "stock": 18,
+  "min_stock": 14
+ },
+ {
+  "id": 274,
+  "name": "Наушники #274",
+  "category": "Электроника",
+  "price": "18.43",
+  "stock": 40,
+  "min_stock": 11
+ },
+ {
+  "id": 275,
+  "name": "Учебник Python #275",
+  "category": "Книги",
+  "price": "124.98",
+  "stock": 34,
+  "min_stock": 14
+ },
+ {
+  "id": 276,
+  "name": "Футболка #276",
+  "category": "Одежда",
+  "price": "4.71",
+  "stock": 36,
+  "min_stock": 12
+ },
+ {
+  "id": 277,
+  "name": "Справочник #277",
+  "category": "Книги",
+  "price": "38.70",
+  "stock": 44,
+  "min_stock": 15
+ },
+ {
+  "id": 278,
+  "name": "Справочник #278",
+  "category": "Книги",
+  "price": "170.33",
+  "stock": 31,
+  "min_stock": 8
+ },
+ {
+  "id": 279,
+  "name": "Кроссовки #279",
+  "category": "Одежда",
+  "price": "160.09",
+  "stock": 18,
+  "min_stock": 6
+ },
+ {
+  "id": 280,
+  "name": "Шапка #280",
+  "category": "Одежда",
+  "price": "62.55",
+  "stock": 22,
+  "min_stock": 5
+ },
+ {
+  "id": 281,
+  "name": "Учебник Python #281",
+  "category": "Книги",
+  "price": "243.22",
+  "stock": 37,
+  "min_stock": 4
+ },
+ {
+  "id": 282,
+  "name": "Лампа #282",
+  "category": "Дом",
+  "price": "52.07",
+  "stock": 51,
+  "min_stock": 10
+ },
+ {
+  "id": 283,
+  "name": "Учебник Python #283",
+  "category": "Книги",
+  "price": "29.82",
+  "stock": 44,
+  "min_stock": 11
+ },
+ {
+  "id": 284,
+  "name": "Комикс #284",
+  "category": "Книги",
+  "price": "61.92",
+  "stock": 42,
+  "min_stock": 10
+ },
+ {
+  "id": 285,
+  "name": "Роман #285",
+  "category": "Книги",
+  "price": "169.00",
+  "stock": 5,
+  "min_stock": 13
+ },
+ {
+  "id": 286,
+  "name": "Лампа #286",
+  "category": "Дом",
+  "price": "259.61",
+  "stock": 33,
+  "min_stock": 15
+ },
+ {
+  "id": 287,
+  "name": "Куртка #287",
+  "category": "Одежда",
+  "price": "117.43",
+  "stock": 58,
+  "min_stock": 12
+ },
+ {
+  "id": 288,
+  "name": "Сковорода #288",
+  "category": "Дом",
+  "price": "18.04",
+  "stock": 12,
+  "min_stock": 11
+ },
+ {
+  "id": 289,
+  "name": "Плед #289",
+  "category": "Дом",
+  "price": "263.68",
+  "stock": 13,
+  "min_stock": 5
+ },
+ {
+  "id": 290,
+  "name": "Кроссовки #290",
+  "category": "Одежда",
+  "price": "132.68",
+  "stock": 18,
+  "min_stock": 5
+ },
+ {
+  "id": 291,
+  "name": "Комикс #291",
+  "category": "Книги",
+  "price": "287.36",
+  "stock": 36,
+  "min_stock": 11
+ },
+ {
+  "id": 292,
+  "name": "Кроссовки #292",
+  "category": "Одежда",
+  "price": "101.35",
+  "stock": 35,
+  "min_stock": 13
+ },
+ {
+  "id": 293,
+  "name": "Наушники #293",
+  "category": "Электроника",
+  "price": "219.61",
+  "stock": 12,
+  "min_stock": 4
+ },
+ {
+  "id": 294,
+  "name": "Наушники #294",
+  "category": "Электроника",
+  "price": "68.95",
+  "stock": 53,
+  "min_stock": 12
+ },
+ {
+  "id": 295,
+  "name": "Комикс #295",
+  "category": "Книги",
+  "price": "290.76",
+  "stock": 50,
+  "min_stock": 12
+ },
+ {
+  "id": 296,
+  "name": "Гантели #296",
+  "category": "Спорт",
+  "price": "269.87",
+  "stock": 32,
+  "min_stock": 9
+ },
+ {
+  "id": 297,
+  "name": "Мяч #297",
+  "category": "Спорт",
+  "price": "8.72",
+  "stock": 30,
+  "min_stock": 3
+ },
+ {
+  "id": 298,
+  "name": "Кроссовки #298",
+  "category": "Одежда",
+  "price": "294.80",
+  "stock": 16,
+  "min_stock": 2
+ },
+ {
+  "id": 299,
+  "name": "Роман #299",
+  "category": "Книги",
+  "price": "150.22",
+  "stock": 33,
+  "min_stock": 14
+ },
+ {
+  "id": 300,
+  "name": "Зарядка #300",
+  "category": "Электроника",
+  "price": "285.26",
+  "stock": 20,
+  "min_stock": 3
+ },
+ {
+  "id": 301,
+  "name": "Планшет #301",
+  "category": "Электроника",
+  "price": "20.37",
+  "stock": 30,
+  "min_stock": 3
+ },
+ {
+  "id": 302,
+  "name": "Плед #302",
+  "category": "Дом",
+  "price": "248.38",
+  "stock": 55,
+  "min_stock": 7
+ },
+ {
+  "id": 303,
+  "name": "Мяч #303",
+  "category": "Спорт",
+  "price": "297.31",
+  "stock": 14,
+  "min_stock": 6
+ },
+ {
+  "id": 304,
+  "name": "Кроссовки #304",
+  "category": "Одежда",
+  "price": "46.35",
+  "stock": 15,
+  "min_stock": 4
+ },
+ {
+  "id": 305,
+  "name": "Наушники #305",
+  "category": "Электроника",
+  "price": "269.27",
+  "stock": 28,
+  "min_stock": 3
+ },
+ {
+  "id": 306,
+  "name": "Учебник Python #306",
+  "category": "Книги",
+  "price": "239.75",
+  "stock": 52,
+  "min_stock": 5
+ },
+ {
+  "id": 307,
+  "name": "Справочник #307",
+  "category": "Книги",
+  "price": "151.88",
+  "stock": 20,
+  "min_stock": 4
+ },
+ {
+  "id": 308,
+  "name": "Зарядка #308",
+  "category": "Электроника",
+  "price": "197.43",
+  "stock": 10,
+  "min_stock": 3
+ },
+ {
+  "id": 309,
+  "name": "Мышь #309",
+  "category": "Электроника",
+  "price": "232.77",
+  "stock": 26,
+  "min_stock": 8
+ },
+ {
+  "id": 310,
+  "name": "Мяч #310",
+  "category": "Спорт",
+  "price": "278.74",
+  "stock": 43,
+  "min_stock": 7
+ },
+ {
+  "id": 311,
+  "name": "Учебник Python #311",
+  "category": "Книги",
+  "price": "210.43",
+  "stock": 33,
+  "min_stock": 9
+ },
+ {
+  "id": 312,
+  "name": "Мышь #312",
+  "category": "Электроника",
+  "price": "190.43",
+  "stock": 24,
+  "min_stock": 7
+ },
+ {
+  "id": 313,
+  "name": "Мяч #313",
+  "category": "Спорт",
+  "price": "238.77",
+  "stock": 38,
+  "min_stock": 2
+ },
+ {
+  "id": 314,
+  "name": "Мяч #314",
+  "category": "Спорт",
+  "price": "32.77",
+  "stock": 29,
+  "min_stock": 3
+ },
+ {
+  "id": 315,
+  "name": "Джинсы #315",
+  "category": "Одежда",
+  "price": "185.26",
+  "stock": 28,
+  "min_stock": 15
+ },
+ {
+  "id": 316,
+  "name": "Мяч #316",
+  "category": "Спорт",
+  "price": "219.33",
+  "stock": 37,
+  "min_stock": 13
+ },
+ {
+  "id": 317,
+  "name": "Наушники #317",
+  "category": "Электроника",
+  "price": "206.27",
+  "stock": 29,
+  "min_stock": 12
+ },
+ {
+  "id": 318,
+  "name": "Куртка #318",
+  "category": "Одежда",
+  "price": "109.49",
+  "stock": 22,
+  "min_stock": 13
+ },
+ {
+  "id": 319,
+  "name": "Велошлем #319",
+  "category": "Спорт",
+  "price": "47.79",
+  "stock": 16,
+  "min_stock": 13
+ },
+ {
+  "id": 320,
+  "name": "Гантели #320",
+  "category": "Спорт",
+  "price": "93.92",
+  "stock": 68,
+  "min_stock": 3
+ },
+ {
+  "id": 321,
+  "name": "Куртка #321",
+  "category": "Одежда",
+  "price": "119.25",
+  "stock": 30,
+  "min_stock": 5
+ },
+ {
+  "id": 322,
+  "name": "Чайник #322",
+  "category": "Дом",
+  "price": "219.12",
+  "stock": 54,
+  "min_stock": 8
+ },
+ {
+  "id": 323,
+  "name": "Шапка #323",
+  "category": "Одежда",
+  "price": "247.48",
+  "stock": 35,
+  "min_stock": 2
+ },
+ {
+  "id": 324,
+  "name": "Велошлем #324",
+  "category": "Спорт",
+  "price": "64.12",
+  "stock": 37,
+  "min_stock": 14
+ },
+ {
+  "id": 325,
+  "name": "Наушники #325",
+  "category": "Электроника",
+  "price": "105.08",
+  "stock": 37,
+  "min_stock": 14
+ },
+ {
+  "id": 326,
+  "name": "Гантели #326",
+  "category": "Спорт",
+  "price": "227.83",
+  "stock": 63,
+  "min_stock": 4
+ },
+ {
+  "id": 327,
+  "name": "Мышь #327",
+  "category": "Электроника",
+  "price": "227.87",
+  "stock": 61,
+  "min_stock": 2
+ },
+ {
+  "id": 328,
+  "name": "Справочник #328",
+  "category": "Книги",
+  "price": "255.76",
+  "stock": 22,
+  "min_stock": 6
+ },
+ {
+  "id": 329,
+  "name": "Справочник #329",
+  "category": "Книги",
+  "price": "120.31",
+  "stock": 54,
+  "min_stock": 11
+ },
+ {
+  "id": 330,
+  "name": "Плед #330",
+  "category": "Дом",
+  "price": "29.71",
+  "stock": 30,
+  "min_stock": 11
+ },
+ {
+  "id": 331,
+  "name": "Справочник #331",
+  "category": "Книги",
+  "price": "289.12",
+  "stock": 31,
+  "min_stock": 4
+ },
+ {
+  "id": 332,
+  "name": "Чайник #332",
+  "category": "Дом",
+  "price": "269.72",
+  "stock": 31,
+  "min_stock": 12
+ },
+ {
+  "id": 333,
+  "name": "Коврик #333",
+  "category": "Спорт",
+  "price": "200.94",
+  "stock": 35,
+  "min_stock": 9
+ },
+ {
+  "id": 334,
+  "name": "Чайник #334",
+  "category": "Дом",
+  "price": "227.60",
+  "stock": 34,
+  "min_stock": 7
+ },
+ {
+  "id": 335,
+  "name": "Комикс #335",
+  "category": "Книги",
+  "price": "37.07",
+  "stock": 57,
+  "min_stock": 5
+ },
+ {
+  "id": 336,
+  "name": "Джинсы #336",
+  "category": "Одежда",
+  "price": "64.36",
+  "stock": 24,
+  "min_stock": 15
+ },
+ {
+  "id": 337,
+  "name": "Комикс #337",
+  "category": "Книги",
+  "price": "201.68",
+  "stock": 19,
+  "min_stock": 8
+ },
+ {
+  "id": 338,
+  "name": "Мяч #338",
+  "category": "Спорт",
+  "price": "243.00",
+  "stock": 9,
+  "min_stock": 7
+ },
+ {
+  "id": 339,
+  "name": "Учебник Python #339",
+  "category": "Книги",
+  "price": "87.81",
+  "stock": 39,
+  "min_stock": 14
+ },
+ {
+  "id": 340,
+  "name": "Коврик #340",
+  "category": "Спорт",
+  "price": "104.98",
+  "stock": 52,
+  "min_stock": 14
+ },
+ {
+  "id": 341,
+  "name": "Гантели #341",
+  "category": "Спорт",
+  "price": "5.07",
+  "stock": 51,
+  "min_stock": 13
+ },
+ {
+  "id": 342,
+  "name": "Футболка #342",
+  "category": "Одежда",
+  "price": "282.57",
+  "stock": 57,
+  "min_stock": 15
+ },
+ {
+  "id": 343,
+  "name": "Комикс #343",
+  "category": "Книги",
+  "price": "220.93",
+  "stock": 30,
+  "min_stock": 15
+ },
+ {
+  "id": 344,
+  "name": "Наушники #344",
+  "category": "Электроника",
+  "price": "299.56",
+  "stock": 30,
+  "min_stock": 13
+ },
+ {
+  "id": 345,
+  "name": "Сковорода #345",
+  "category": "Дом",
+  "price": "34.14",
+  "stock": 40,
+  "min_stock": 3
+ },
+ {
+  "id": 346,
+  "name": "Кроссовки #346",
+  "category": "Одежда",
+  "price": "235.85",
+  "stock": 41,
+  "min_stock": 2
+ },
+ {
+  "id": 347,
+  "name": "Справочник #347",
+  "category": "Книги",
+  "price": "203.66",
+  "stock": 25,
+  "min_stock": 4
+ },
+ {
+  "id": 348,
+  "name": "Сковорода #348",
+  "category": "Дом",
+  "price": "141.93",
+  "stock": 56,
+  "min_stock": 15
+ },
+ {
+  "id": 349,
+  "name": "Куртка #349",
+  "category": "Одежда",
+  "price": "55.28",
+  "stock": 45,
+  "min_stock": 2
+ },
+ {
+  "id": 350,
+  "name": "Колонка #350",
+  "category": "Электроника",
+  "price": "280.75",
+  "stock": 43,
+  "min_stock": 10
+ },
+ {
+  "id": 351,
+  "name": "Плед #351",
+  "category": "Дом",
+  "price": "164.14",
+  "stock": 39,
+  "min_stock": 2
+ },
+ {
+  "id": 352,
+  "name": "Куртка #352",
+  "category": "Одежда",
+  "price": "131.93",
+  "stock": 50,
+  "min_stock": 2
+ },
+ {
+  "id": 353,
+  "name": "Сковорода #353",
+  "category": "Дом",
+  "price": "264.92",
+  "stock": 34,
+  "min_stock": 11
+ },
+ {
+  "id": 354,
+  "name": "Смартфон #354",
+  "category": "Электроника",
+  "price": "65.36",
+  "stock": 35,
+  "min_stock": 7
+ },
+ {
+  "id": 355,
+  "name": "Справочник #355",
+  "category": "Книги",
+  "price": "121.64",
+  "stock": 20,
+  "min_stock": 14
+ },
+ {
+  "id": 356,
+  "name": "Мышь #356",
+  "category": "Электроника",
+  "price": "243.22",
+  "stock": 30,
+  "min_stock": 7
+ },
+ {
+  "id": 357,
+  "name": "Лампа #357",
+  "category": "Дом",
+  "price": "19.03",
+  "stock": 37,
+  "min_stock": 6
+ },
+ {
+  "id": 358,
+  "name": "Велошлем #358",
+  "category": "Спорт",
+  "price": "102.58",
+  "stock": 41,
+  "min_stock": 15
+ },
+ {
+  "id": 359,
+  "name": "Комикс #359",
+  "category": "Книги",
+  "price": "73.82",
+  "stock": 49,
+  "min_stock": 11
+ },
+ {
+  "id": 360,
+  "name": "Шапка #360",
+  "category": "Одежда",
+  "price": "82.84",
+  "stock": 62,
+  "min_stock": 3
+ },
+ {
+  "id": 361,
+  "name": "Комикс #361",
+  "category": "Книги",
+  "price": "266.40",
+  "stock": 34,
+  "min_stock": 2
+ },
+ {
+  "id": 362,
+  "name": "Джинсы #362",
+  "category": "Одежда",
+  "price": "251.87",
+  "stock": 54,
+  "min_stock": 15
+ },
+ {
+  "id": 363,
+  "name": "Смартфон #363",
+  "category": "Электроника",
+  "price": "152.08",
+  "stock": 33,
+  "min_stock": 4
+ },
+ {
+  "id": 364,
+  "name": "Колонка #364",
+  "category": "Электроника",
+  "price": "224.63",
+  "stock": 54,
+  "min_stock": 5
+ },
+ {
+  "id": 365,
+  "name": "Коврик #365",
+  "category": "Спорт",
+  "price": "124.30",
+  "stock": 49,
+  "min_stock": 13
+ },
+ {
+  "id": 366,
+  "name": "Планшет #366",
+  "category": "Электроника",
+  "price": "154.76",
+  "stock": 34,
+  "min_stock": 2
+ },
+ {
+  "id": 367,
+  "name": "Джинсы #367",
+  "category": "Одежда",
+  "price": "159.57",
+  "stock": 47,
+  "min_stock": 5
+ },
+ {
+  "id": 368,
+  "name": "Комикс #368",
+  "category": "Книги",
+  "price": "274.61",
+  "stock": 39,
+  "min_stock": 13
+ },
+ {
+  "id": 369,
+  "name": "Куртка #369",
+  "category": "Одежда",
+  "price": "246.65",
+  "stock": 20,
+  "min_stock": 8
+ },
+ {
+  "id": 370,
+  "name": "Кроссовки #370",
+  "category": "Одежда",
+  "price": "75.72",
+  "stock": 27,
+  "min_stock": 2
+ },
+ {
+  "id": 371,
+  "name": "Футболка #371",
+  "category": "Одежда",
+  "price": "185.18",
+  "stock": 33,
+  "min_stock": 5
+ },
+ {
+  "id": 372,
+  "name": "Кроссовки #372",
+  "category": "Одежда",
+  "price": "241.21",
+  "stock": 39,
+  "min_stock": 11
+ },
+ {
+  "id": 373,
+  "name": "Планшет #373",
+  "category": "Электроника",
+  "price": "263.14",
+  "stock": 18,
+  "min_stock": 13
+ },
+ {
+  "id": 374,
+  "name": "Комикс #374",
+  "category": "Книги",
+  "price": "9.56",
+  "stock": 20,
+  "min_stock": 5
+ },
+ {
+  "id": 375,
+  "name": "Зарядка #375",
+  "category": "Электроника",
+  "price": "121.96",
+  "stock": 29,
+  "min_stock": 9
+ },
+ {
+  "id": 376,
+  "name": "Гантели #376",
+  "category": "Спорт",
+  "price": "131.05",
+  "stock": 31,
+  "min_stock": 13
+ },
+ {
+  "id": 377,
+  "name": "Лампа #377",
+  "category": "Дом",
+  "price": "229.64",
+  "stock": 51,
+  "min_stock": 6
+ },
+ {
+  "id": 378,
+  "name": "Мышь #378",
+  "category": "Электроника",
+  "price": "37.24",
+  "stock": 54,
+  "min_stock": 15
+ },
+ {
+  "id": 379,
+  "name": "Чайник #379",
+  "category": "Дом",
+  "price": "196.30",
+  "stock": 26,
+  "min_stock": 7
+ },
+ {
+  "id": 380,
+  "name": "Коврик #380",
+  "category": "Спорт",
+  "price": "47.14",
+  "stock": 36,
+  "min_stock": 13
+ },
+ {
+  "id": 381,
+  "name": "Сковорода #381",
+  "category": "Дом",
+  "price": "128.70",
+  "stock": 41,
+  "min_stock": 6
+ },
+ {
+  "id": 382,
+  "name": "Кроссовки #382",
+  "category": "Одежда",
+  "price": "51.71",
+  "stock": 26,
+  "min_stock": 9
+ },
+ {
+  "id": 383,
+  "name": "Роман #383",
+  "category": "Книги",
+  "price": "263.06",
+  "stock": 37,
+  "min_stock": 7
+ },
+ {
+  "id": 384,
+  "name": "Футболка #384",
+  "category": "Одежда",
+  "price": "26.43",
+  "stock": 46,
+  "min_stock": 4
+ },
+ {
+  "id": 385,
+  "name": "Куртка #385",
+  "category": "Одежда",
+  "price": "223.31",
+  "stock": 45,
+  "min_stock": 9
+ },
+ {
+  "id": 386,
+  "name": "Шапка #386",
+  "category": "Одежда",
+  "price": "262.21",
+  "stock": 53,
+  "min_stock": 13
+ },
+ {
+  "id": 387,
+  "name": "Лампа #387",
+  "category": "Дом",
+  "price": "185.18",
+  "stock": 23,
+  "min_stock": 15
+ },
+ {
+  "id": 388,
+  "name": "Чайник #388",
+  "category": "Дом",
+  "price": "288.54",
+  "stock": 15,
+  "min_stock": 12
+ },
+ {
+  "id": 389,
+  "name": "Кружка #389",
+  "category": "Дом",
+  "price": "191.14",
+  "stock": 17,
+  "min_stock": 2
+ },
+ {
+  "id": 390,
+  "name": "Велошлем #390",
+  "category": "Спорт",
+  "price": "179.43",
+  "stock": 48,
+  "min_stock": 14
+ },
+ {
+  "id": 391,
+  "name": "Кроссовки #391",
+  "category": "Одежда",
+  "price": "104.71",
+  "stock": 28,
+  "min_stock": 13
+ },
+ {
+  "id": 392,
+  "name": "Комикс #392",
+  "category": "Книги",
+  "price": "171.27",
+  "stock": 27,
+  "min_stock": 7
+ },
+ {
+  "id": 393,
+  "name": "Кружка #393",
+  "category": "Дом",
+  "price": "31.14",
+  "stock": 32,
+  "min_stock": 4
+ },
+ {
+  "id": 394,
+  "name": "Мяч #394",
+  "category": "Спорт",
+  "price": "46.95",
+  "stock": 24,
+  "min_stock": 4
+ },
+ {
+  "id": 395,
+  "name": "Роман #395",
+  "category": "Книги",
+  "price": "163.19",
+  "stock": 22,
+  "min_stock": 15
+ },
+ {
+  "id": 396,
+  "name": "Шапка #396",
+  "category": "Одежда",
+  "price": "88.20",
+  "stock": 46,
+  "min_stock": 2
+ },
+ {
+  "id": 397,
+  "name": "Мышь #397",
+  "category": "Электроника",
+  "price": "9.18",
+  "stock": 18,
+  "min_stock": 3
+ },
+ {
+  "id": 398,
+  "name": "Наушники #398",
+  "category": "Электроника",
+  "price": "244.60",
+  "stock": 27,
+  "min_stock": 5
+ },
+ {
+  "id": 399,
+  "name": "Куртка #399",
+  "category": "Одежда",
+  "price": "89.52",
+  "stock": 16,
+  "min_stock": 2
+ },
+ {
+  "id": 400,
+  "name": "Шапка #400",
+  "category": "Одежда",
+  "price": "44.59",
+  "stock": 36,
+  "min_stock": 14
+ },
+ {
+  "id": 401,
+  "name": "Кроссовки #401",
+  "category": "Одежда",
+  "price": "142.75",
+  "stock": 42,
+  "min_stock": 11
+ },
+ {
+  "id": 402,
+  "name": "Гантели #402",
+  "category": "Спорт",
+  "price": "89.13",
+  "stock": 32,
+  "min_stock": 14
+ },
+ {
+  "id": 403,
+  "name": "Справочник #403",
+  "category": "Книги",
+  "price": "118.13",
+  "stock": 36,
+  "min_stock": 10
+ },
+ {
+  "id": 404,
+  "name": "Кроссовки #404",
+  "category": "Одежда",
+  "price": "32.48",
+  "stock": 4,
+  "min_stock": 13
+ },
+ {
+  "id": 405,
+  "name": "Джинсы #405",
+  "category": "Одежда",
+  "price": "98.24",
+  "stock": 35,
+  "min_stock": 8
+ },
+ {
+  "id": 406,
+  "name": "Учебник Python #406",
+  "category": "Книги",
+  "price": "212.65",
+  "stock": 43,
+  "min_stock": 2
+ },
+ {
+  "id": 407,
+  "name": "Учебник Python #407",
+  "category": "Книги",
+  "price": "211.14",
+  "stock": 26,
+  "min_stock": 6
+ },
+ {
+  "id": 408,
+  "name": "Роман #408",
+  "category": "Книги",
+  "price": "51.15",
+  "stock": 36,
+  "min_stock": 9
+ },
+ {
+  "id": 409,
+  "name": "Зарядка #409",
+  "category": "Электроника",
+  "price": "249.63",
+  "stock": 52,
+  "min_stock": 8
+ },
+ {
+  "id": 410,
+  "name": "Велошлем #410",
+  "category": "Спорт",
+  "price": "216.05",
+  "stock": 45,
+  "min_stock": 6
+ },
+ {
+  "id": 411,
+  "name": "Наушники #411",
+  "category": "Электроника",
+  "price": "19.37",
+  "stock": 29,
+  "min_stock": 3
+ },
+ {
+  "id": 412,
+  "name": "Планшет #412",
+  "category": "Электроника",
+  "price": "22.04",
+  "stock": 23,
+  "min_stock": 8
+ },
+ {
+  "id": 413,
+  "name": "Гантели #413",
+  "category": "Спорт",
+  "price": "123.66",
+  "stock": 24,
+  "min_stock": 10
+ },
+ {
+  "id": 414,
+  "name": "Кружка #414",
+  "category": "Дом",
+  "price": "115.02",
+  "stock": 43,
+  "min_stock": 3
+ },
+ {
+  "id": 415,
+  "name": "Учебник Python #415",
+  "category": "Книги",
+  "price": "230.79",
+  "stock": 63,
+  "min_stock": 14
+ },
+ {
+  "id": 416,
+  "name": "Мяч #416",
+  "category": "Спорт",
+  "price": "135.81",
+  "stock": 31,
+  "min_stock": 6
+ },
+ {
+  "id": 417,
+  "name": "Лампа #417",
+  "category": "Дом",
+  "price": "226.08",
+  "stock": 59,
+  "min_stock": 12
+ },
+ {
+  "id": 418,
+  "name": "Футболка #418",
+  "category": "Одежда",
+  "price": "172.61",
+  "stock": 42,
+  "min_stock": 8
+ },
+ {
+  "id": 419,
+  "name": "Справочник #419",
+  "category": "Книги",
+  "price": "142.03",
+  "stock": 26,
+  "min_stock": 9
+ },
+ {
+  "id": 420,
+  "name": "Роман #420",
+  "category": "Книги",
+  "price": "270.31",
+  "stock": 42,
+  "min_stock": 11
+ },
+ {
+  "id": 421,
+  "name": "Коврик #421",
+  "category": "Спорт",
+  "price": "137.90",
+  "stock": 28,
+  "min_stock": 4
+ },
+ {
+  "id": 422,
+  "name": "Зарядка #422",
+  "category": "Электроника",
+  "price": "170.19",
+  "stock": 36,
+  "min_stock": 10
+ },
+ {
+  "id": 423,
+  "name": "Мышь #423",
+  "category": "Электроника",
+  "price": "56.19",
+  "stock": 39,
+  "min_stock": 14
+ },
+ {
+  "id": 424,
+  "name": "Колонка #424",
+  "category": "Электроника",
+  "price": "241.72",
+  "stock": 43,
+  "min_stock": 4
+ },
+ {
+  "id": 425,
+  "name": "Комикс #425",
+  "category": "Книги",
+  "price": "209.19",
+  "stock": 23,
+  "min_stock": 11
+ },
+ {
+  "id": 426,
+  "name": "Мяч #426",
+  "category": "Спорт",
+  "price": "164.29",
+  "stock": 32,
+  "min_stock": 4
+ },
+ {
+  "id": 427,
+  "name": "Велошлем #427",
+  "category": "Спорт",
+  "price": "224.92",
+  "stock": 44,
+  "min_stock": 13
+ },
+ {
+  "id": 428,
+  "name": "Сковорода #428",
+  "category": "Дом",
+  "price": "208.00",
+  "stock": 26,
+  "min_stock": 7
+ },
+ {
+  "id": 429,
+  "name": "Джинсы #429",
+  "category": "Одежда",
+  "price": "187.65",
+  "stock": 28,
+  "min_stock": 14
+ },
+ {
+  "id": 430,
+  "name": "Зарядка #430",
+  "category": "Электроника",
+  "price": "38.97",
+  "stock": 18,
+  "min_stock": 15
+ },
+ {
+  "id": 431,
+  "name": "Коврик #431",
+  "category": "Спорт",
+  "price": "49.07",
+  "stock": 46,
+  "min_stock": 5
+ },
+ {
+  "id": 432,
+  "name": "Зарядка #432",
+  "category": "Электроника",
+  "price": "276.41",
+  "stock": 30,
+  "min_stock": 3
+ },
+ {
+  "id": 433,
+  "name": "Куртка #433",
+  "category": "Одежда",
+  "price": "143.35",
+  "stock": 21,
+  "min_stock": 15
+ },
+ {
+  "id": 434,
+  "name": "Мышь #434",
+  "category": "Электроника",
+  "price": "14.78",
+  "stock": 25,
+  "min_stock": 4
+ },
+ {
+  "id": 435,
+  "name": "Куртка #435",
+  "category": "Одежда",
+  "price": "121.17",
+  "stock": 54,
+  "min_stock": 12
+ },
+ {
+  "id": 436,
+  "name": "Планшет #436",
+  "category": "Электроника",
+  "price": "56.53",
+  "stock": 63,
+  "min_stock": 3
+ },
+ {
+  "id": 437,
+  "name": "Куртка #437",
+  "category": "Одежда",
+  "price": "24.87",
+  "stock": 25,
+  "min_stock": 7
+ },
+ {
+  "id": 438,
+  "name": "Зарядка #438",
+  "category": "Электроника",
+  "price": "15.92",
+  "stock": 13,
+  "min_stock": 12
+ },
+ {
+  "id": 439,
+  "name": "Чайник #439",
+  "category": "Дом",
+  "price": "182.23",
+  "stock": 50,
+  "min_stock": 7
+ },
+ {
+  "id": 440,
+  "name": "Сковорода #440",
+  "category": "Дом",
+  "price": "123.13",
+  "stock": 23,
+  "min_stock": 7
+ },
+ {
+  "id": 441,
+  "name": "Планшет #441",
+  "category": "Электроника",
+  "price": "213.44",
+  "stock": 25,
+  "min_stock": 12
+ },
+ {
+  "id": 442,
+  "name": "Мяч #442",
+  "category": "Спорт",
+  "price": "194.50",
+  "stock": 29,
+  "min_stock": 8
+ },
+ {
+  "id": 443,
+  "name": "Джинсы #443",
+  "category": "Одежда",
+  "price": "44.50",
+  "stock": 29,
+  "min_stock": 9
+ },
+ {
+  "id": 444,
+  "name": "Наушники #444",
+  "category": "Электроника",
+  "price": "108.05",
+  "stock": 27,
+  "min_stock": 13
+ },
+ {
+  "id": 445,
+  "name": "Зарядка #445",
+  "category": "Электроника",
+  "price": "290.46",
+  "stock": 60,
+  "min_stock": 2
+ },
+ {
+  "id": 446,
+  "name": "Планшет #446",
+  "category": "Электроника",
+  "price": "189.83",
+  "stock": 37,
+  "min_stock": 15
+ },
+ {
+  "id": 447,
+  "name": "Кроссовки #447",
+  "category": "Одежда",
+  "price": "96.98",
+  "stock": 14,
+  "min_stock": 2
+ },
+ {
+  "id": 448,
+  "name": "Кроссовки #448",
+  "category": "Одежда",
+  "price": "245.33",
+  "stock": 43,
+  "min_stock": 11
+ },
+ {
+  "id": 449,
+  "name": "Кружка #449",
+  "category": "Дом",
+  "price": "200.29",
+  "stock": 47,
+  "min_stock": 3
+ },
+ {
+  "id": 450,
+  "name": "Мышь #450",
+  "category": "Электроника",
+  "price": "91.37",
+  "stock": 44,
+  "min_stock": 8
+ },
+ {
+  "id": 451,
+  "name": "Смартфон #451",
+  "category": "Электроника",
+  "price": "272.41",
+  "stock": 18,
+  "min_stock": 3
+ },
+ {
+  "id": 452,
+  "name": "Коврик #452",
+  "category": "Спорт",
+  "price": "35.72",
+  "stock": 42,
+  "min_stock": 10
+ },
+ {
+  "id": 453,
+  "name": "Комикс #453",
+  "category": "Книги",
+  "price": "37.22",
+  "stock": 23,
+  "min_stock": 4
+ },
+ {
+  "id": 454,
+  "name": "Футболка #454",
+  "category": "Одежда",
+  "price": "110.05",
+  "stock": 18,
+  "min_stock": 11
+ },
+ {
+  "id": 455,
+  "name": "Комикс #455",
+  "category": "Книги",
+  "price": "242.87",
+  "stock": 50,
+  "min_stock": 6
+ },
+ {
+  "id": 456,
+  "name": "Гантели #456",
+  "category": "Спорт",
+  "price": "165.83",
+  "stock": 31,
+  "min_stock": 6
+ },
+ {
+  "id": 457,
+  "name": "Плед #457",
+  "category": "Дом",
+  "price": "153.74",
+  "stock": 50,
+  "min_stock": 7
+ },
+ {
+  "id": 458,
+  "name": "Роман #458",
+  "category": "Книги",
+  "price": "168.89",
+  "stock": 41,
+  "min_stock": 9
+ },
+ {
+  "id": 459,
+  "name": "Справочник #459",
+  "category": "Книги",
+  "price": "19.81",
+  "stock": 41,
+  "min_stock": 13
+ },
+ {
+  "id": 460,
+  "name": "Джинсы #460",
+  "category": "Одежда",
+  "price": "159.38",
+  "stock": 31,
+  "min_stock": 3
+ },
+ {
+  "id": 461,
+  "name": "Комикс #461",
+  "category": "Книги",
+  "price": "12.98",
+  "stock": 36,
+  "min_stock": 9
+ },
+ {
+  "id": 462,
+  "name": "Роман #462",
+  "category": "Книги",
+  "price": "12.57",
+  "stock": 56,
+  "min_stock": 8
+ },
+ {
+  "id": 463,
+  "name": "Роман #463",
+  "category": "Книги",
+  "price": "108.57",
+  "stock": 34,
+  "min_stock": 3
+ },
+ {
+  "id": 464,
+  "name": "Куртка #464",
+  "category": "Одежда",
+  "price": "295.84",
+  "stock": 49,
+  "min_stock": 3
+ },
+ {
+  "id": 465,
+  "name": "Зарядка #465",
+  "category": "Электроника",
+  "price": "152.79",
+  "stock": 20,
+  "min_stock": 7
+ },
+ {
+  "id": 466,
+  "name": "Учебник Python #466",
+  "category": "Книги",
+  "price": "43.09",
+  "stock": 41,
+  "min_stock": 4
+ },
+ {
+  "id": 467,
+  "name": "Колонка #467",
+  "category": "Электроника",
+  "price": "276.09",
+  "stock": 59,
+  "min_stock": 7
+ },
+ {
+  "id": 468,
+  "name": "Колонка #468",
+  "category": "Электроника",
+  "price": "70.29",
+  "stock": 3,
+  "min_stock": 12
+ },
+ {
+  "id": 469,
+  "name": "Зарядка #469",
+  "category": "Электроника",
+  "price": "121.19",
+  "stock": 49,
+  "min_stock": 13
+ },
+ {
+  "id": 470,
+  "name": "Колонка #470",
+  "category": "Электроника",
+  "price": "148.52",
+  "stock": 50,
+  "min_stock": 15
+ },
+ {
+  "id": 471,
+  "name": "Лампа #471",
+  "category": "Дом",
+  "price": "291.94",
+  "stock": 19,
+  "min_stock": 8
+ },
+ {
+  "id": 472,
+  "name": "Джинсы #472",
+  "category": "Одежда",
+  "price": "8.97",
+  "stock": 37,
+  "min_stock": 2
+ },
+ {
+  "id": 473,
+  "name": "Комикс #473",
+  "category": "Книги",
+  "price": "210.20",
+  "stock": 34,
+  "min_stock": 3
+ },
+ {
+  "id": 474,
+  "name": "Велошлем #474",
+  "category": "Спорт",
+  "price": "220.27",
+  "stock": 14,
+  "min_stock": 11
+ },
+ {
+  "id": 475,
+  "name": "Наушники #475",
+  "category": "Электроника",
+  "price": "41.81",
+  "stock": 30,
+  "min_stock": 14
+ },
+ {
+  "id": 476,
+  "name": "Роман #476",
+  "category": "Книги",
+  "price": "286.11",
+  "stock": 25,
+  "min_stock": 6
+ },
+ {
+  "id": 477,
+  "name": "Смартфон #477",
+  "category": "Электроника",
+  "price": "80.67",
+  "stock": 26,
+  "min_stock": 14
+ },
+ {
+  "id": 478,
+  "name": "Кроссовки #478",
+  "category": "Одежда",
+  "price": "170.12",
+  "stock": 26,
+  "min_stock": 13
+ },
+ {
+  "id": 479,
+  "name": "Справочник #479",
+  "category": "Книги",
+  "price": "29.26",
+  "stock": 38,
+  "min_stock": 3
+ },
+ {
+  "id": 480,
+  "name": "Роман #480",
+  "category": "Книги",
+  "price": "134.95",
+  "stock": 37,
+  "min_stock": 11
+ },
+ {
+  "id": 481,
+  "name": "Мышь #481",
+  "category": "Электроника",
+  "price": "283.50",
+  "stock": 37,
+  "min_stock": 4
+ },
+ {
+  "id": 482,
+  "name": "Зарядка #482",
+  "category": "Электроника",
+  "price": "77.41",
+  "stock": 18,
+  "min_stock": 6
+ },
+ {
+  "id": 483,
+  "name": "Коврик #483",
+  "category": "Спорт",
+  "price": "58.06",
+  "stock": 42,
+  "min_stock": 3
+ },
+ {
+  "id": 484,
+  "name": "Кружка #484",
+  "category": "Дом",
+  "price": "179.65",
+  "stock": 28,
+  "min_stock": 3
+ },
+ {
+  "id": 485,
+  "name": "Коврик #485",
+  "category": "Спорт",
+  "price": "53.58",
+  "stock": 48,
+  "min_stock": 13
+ },
+ {
+  "id": 486,
+  "name": "Мяч #486",
+  "category": "Спорт",
+  "price": "273.87",
+  "stock": 30,
+  "min_stock": 14
+ },
+ {
+  "id": 487,
+  "name": "Лампа #487",
+  "category": "Дом",
+  "price": "25.56",
+  "stock": 28,
+  "min_stock": 15
+ },
+ {
+  "id": 488,
+  "name": "Колонка #488",
+  "category": "Электроника",
+  "price": "127.48",
+  "stock": 8,
+  "min_stock": 2
+ },
+ {
+  "id": 489,
+  "name": "Роман #489",
+  "category": "Книги",
+  "price": "241.86",
+  "stock": 46,
+  "min_stock": 2
+ },
+ {
+  "id": 490,
+  "name": "Велошлем #490",
+  "category": "Спорт",
+  "price": "131.69",
+  "stock": 10,
+  "min_stock": 11
+ },
+ {
+  "id": 491,
+  "name": "Футболка #491",
+  "category": "Одежда",
+  "price": "165.37",
+  "stock": 51,
+  "min_stock": 7
+ },
+ {
+  "id": 492,
+  "name": "Джинсы #492",
+  "category": "Одежда",
+  "price": "122.06",
+  "stock": 28,
+  "min_stock": 8
+ },
+ {
+  "id": 493,
+  "name": "Гантели #493",
+  "category": "Спорт",
+  "price": "213.09",
+  "stock": 27,
+  "min_stock": 13
+ },
+ {
+  "id": 494,
+  "name": "Кружка #494",
+  "category": "Дом",
+  "price": "69.11",
+  "stock": 39,
+  "min_stock": 3
+ },
+ {
+  "id": 495,
+  "name": "Гантели #495",
+  "category": "Спорт",
+  "price": "218.76",
+  "stock": 37,
+  "min_stock": 13
+ },
+ {
+  "id": 496,
+  "name": "Зарядка #496",
+  "category": "Электроника",
+  "price": "286.20",
+  "stock": 7,
+  "min_stock": 13
+ },
+ {
+  "id": 497,
+  "name": "Коврик #497",
+  "category": "Спорт",
+  "price": "58.52",
+  "stock": 38,
+  "min_stock": 10
+ },
+ {
+  "id": 498,
+  "name": "Чайник #498",
+  "category": "Дом",
+  "price": "147.86",
+  "stock": 41,
+  "min_stock": 3
+ },
+ {
+  "id": 499,
+  "name": "Велошлем #499",
+  "category": "Спорт",
+  "price": "282.43",
+  "stock": 48,
+  "min_stock": 9
+ },
+ {
+  "id": 500,
+  "name": "Учебник Python #500",
+  "category": "Книги",
+  "price": "208.10",
+  "stock": 34,
+  "min_stock": 4
+ },
+ {
+  "id": 501,
+  "name": "Шапка #501",
+  "category": "Одежда",
+  "price": "59.29",
+  "stock": 25,
+  "min_stock": 4
+ },
+ {
+  "id": 502,
+  "name": "Джинсы #502",
+  "category": "Одежда",
+  "price": "265.54",
+  "stock": 47,
+  "min_stock": 14
+ },
+ {
+  "id": 503,
+  "name": "Лампа #503",
+  "category": "Дом",
+  "price": "239.54",
+  "stock": 50,
+  "min_stock": 5
+ },
+ {
+  "id": 504,
+  "name": "Велошлем #504",
+  "category": "Спорт",
+  "price": "177.81",
+  "stock": 55,
+  "min_stock": 5
+ },
+ {
+  "id": 505,
+  "name": "Велошлем #505",
+  "category": "Спорт",
+  "price": "192.72",
+  "stock": 30,
+  "min_stock": 12
+ },
+ {
+  "id": 506,
+  "name": "Сковорода #506",
+  "category": "Дом",
+  "price": "159.80",
+  "stock": 41,
+  "min_stock": 8
+ },
+ {
+  "id": 507,
+  "name": "Учебник Python #507",
+  "category": "Книги",
+  "price": "36.69",
+  "stock": 14,
+  "min_stock": 5
+ },
+ {
+  "id": 508,
+  "name": "Смартфон #508",
+  "category": "Электроника",
+  "price": "296.76",
+  "stock": 31,
+  "min_stock": 7
+ },
+ {
+  "id": 509,
+  "name": "Куртка #509",
+  "category": "Одежда",
+  "price": "182.19",
+  "stock": 53,
+  "min_stock": 13
+ },
+ {
+  "id": 510,
+  "name": "Кроссовки #510",
+  "category": "Одежда",
+  "price": "74.00",
+  "stock": 42,
+  "min_stock": 5
+ },
+ {
+  "id": 511,
+  "name": "Кроссовки #511",
+  "category": "Одежда",
+  "price": "202.64",
+  "stock": 49,
+  "min_stock": 15
+ },
+ {
+  "id": 512,
+  "name": "Велошлем #512",
+  "category": "Спорт",
+  "price": "156.87",
+  "stock": 50,
+  "min_stock": 7
+ },
+ {
+  "id": 513,
+  "name": "Гантели #513",
+  "category": "Спорт",
+  "price": "272.69",
+  "stock": 30,
+  "min_stock": 15
+ },
+ {
+  "id": 514,
+  "name": "Футболка #514",
+  "category": "Одежда",
+  "price": "101.20",
+  "stock": 50,
+  "min_stock": 8
+ },
+ {
+  "id": 515,
+  "name": "Справочник #515",
+  "category": "Книги",
+  "price": "266.81",
+  "stock": 26,
+  "min_stock": 11
+ },
+ {
+  "id": 516,
+  "name": "Футболка #516",
+  "category": "Одежда",
+  "price": "230.65",
+  "stock": 17,
+  "min_stock": 13
+ },
+ {
+  "id": 517,
+  "name": "Комикс #517",
+  "category": "Книги",
+  "price": "56.17",
+  "stock": 56,
+  "min_stock": 10
+ },
+ {
+  "id": 518,
+  "name": "Комикс #518",
+  "category": "Книги",
+  "price": "274.79",
+  "stock": 23,
+  "min_stock": 6
+ },
+ {
+  "id": 519,
+  "name": "Джинсы #519",
+  "category": "Одежда",
+  "price": "260.52",
+  "stock": 22,
+  "min_stock": 7
+ },
+ {
+  "id": 520,
+  "name": "Учебник Python #520",
+  "category": "Книги",
+  "price": "67.92",
+  "stock": 17,
+  "min_stock": 7
+ },
+ {
+  "id": 521,
+  "name": "Роман #521",
+  "category": "Книги",
+  "price": "160.72",
+  "stock": 53,
+  "min_stock": 15
+ },
+ {
+  "id": 522,
+  "name": "Кроссовки #522",
+  "category": "Одежда",
+  "price": "32.54",
+  "stock": 19,
+  "min_stock": 2
+ },
+ {
+  "id": 523,
+  "name": "Шапка #523",
+  "category": "Одежда",
+  "price": "138.30",
+  "stock": 29,
+  "min_stock": 4
+ },
+ {
+  "id": 524,
+  "name": "Колонка #524",
+  "category": "Электроника",
+  "price": "149.24",
+  "stock": 58,
+  "min_stock": 14
+ },
+ {
+  "id": 525,
+  "name": "Комикс #525",
+  "category": "Книги",
+  "price": "265.55",
+  "stock": 17,
+  "min_stock": 11
+ },
+ {
+  "id": 526,
+  "name": "Справочник #526",
+  "category": "Книги",
+  "price": "263.93",
+  "stock": 36,
+  "min_stock": 13
+ },
+ {
+  "id": 527,
+  "name": "Плед #527",
+  "category": "Дом",
+  "price": "261.20",
+  "stock": 40,
+  "min_stock": 15
+ },
+ {
+  "id": 528,
+  "name": "Лампа #528",
+  "category": "Дом",
+  "price": "94.17",
+  "stock": 48,
+  "min_stock": 12
+ },
+ {
+  "id": 529,
+  "name": "Сковорода #529",
+  "category": "Дом",
+  "price": "43.93",
+  "stock": 30,
+  "min_stock": 11
+ },
+ {
+  "id": 530,
+  "name": "Учебник Python #530",
+  "category": "Книги",
+  "price": "270.63",
+  "stock": 39,
+  "min_stock": 13
+ },
+ {
+  "id": 531,
+  "name": "Комикс #531",
+  "category": "Книги",
+  "price": "69.95",
+  "stock": 49,
+  "min_stock": 10
+ },
+ {
+  "id": 532,
+  "name": "Планшет #532",
+  "category": "Электроника",
+  "price": "162.83",
+  "stock": 29,
+  "min_stock": 15
+ },
+ {
+  "id": 533,
+  "name": "Зарядка #533",
+  "category": "Электроника",
+  "price": "81.81",
+  "stock": 20,
+  "min_stock": 14
+ },
+ {
+  "id": 534,
+  "name": "Куртка #534",
+  "category": "Одежда",
+  "price": "183.83",
+  "stock": 44,
+  "min_stock": 6
+ },
+ {
+  "id": 535,
+  "name": "Футболка #535",
+  "category": "Одежда",
+  "price": "36.55",
+  "stock": 31,
+  "min_stock": 15
+ },
+ {
+  "id": 536,
+  "name": "Плед #536",
+  "category": "Дом",
+  "price": "242.01",
+  "stock": 48,
+  "min_stock": 5
+ },
+ {
+  "id": 537,
+  "name": "Джинсы #537",
+  "category": "Одежда",
+  "price": "177.09",
+  "stock": 33,
+  "min_stock": 11
+ },
+ {
+  "id": 538,
+  "name": "Комикс #538",
+  "category": "Книги",
+  "price": "172.33",
+  "stock": 46,
+  "min_stock": 11
+ },
+ {
+  "id": 539,
+  "name": "Куртка #539",
+  "category": "Одежда",
+  "price": "209.64",
+  "stock": 21,
+  "min_stock": 13
+ },
+ {
+  "id": 540,
+  "name": "Сковорода #540",
+  "category": "Дом",
+  "price": "186.89",
+  "stock": 63,
+  "min_stock": 4
+ },
+ {
+  "id": 541,
+  "name": "Смартфон #541",
+  "category": "Электроника",
+  "price": "163.14",
+  "stock": 12,
+  "min_stock": 4
+ },
+ {
+  "id": 542,
+  "name": "Велошлем #542",
+  "category": "Спорт",
+  "price": "258.91",
+  "stock": 22,
+  "min_stock": 10
+ },
+ {
+  "id": 543,
+  "name": "Смартфон #543",
+  "category": "Электроника",
+  "price": "185.83",
+  "stock": 51,
+  "min_stock": 10
+ },
+ {
+  "id": 544,
+  "name": "Сковорода #544",
+  "category": "Дом",
+  "price": "186.08",
+  "stock": 28,
+  "min_stock": 9
+ },
+ {
+  "id": 545,
+  "name": "Коврик #545",
+  "category": "Спорт",
+  "price": "39.36",
+  "stock": 40,
+  "min_stock": 4
+ },
+ {
+  "id": 546,
+  "name": "Планшет #546",
+  "category": "Электроника",
+  "price": "258.93",
+  "stock": 24,
+  "min_stock": 5
+ },
+ {
+  "id": 547,
+  "name": "Куртка #547",
+  "category": "Одежда",
+  "price": "167.66",
+  "stock": 49,
+  "min_stock": 11
+ },
+ {
+  "id": 548,
+  "name": "Планшет #548",
+  "category": "Электроника",
+  "price": "33.14",
+  "stock": 34,
+  "min_stock": 3
+ },
+ {
+  "id": 549,
+  "name": "Мяч #549",
+  "category": "Спорт",
+  "price": "232.12",
+  "stock": 16,
+  "min_stock": 15
+ },
+ {
+  "id": 550,
+  "name": "Чайник #550",
+  "category": "Дом",
+  "price": "140.31",
+  "stock": 19,
+  "min_stock": 15
+ },
+ {
+  "id": 551,
+  "name": "Комикс #551",
+  "category": "Книги",
+  "price": "57.84",
+  "stock": 21,
+  "min_stock": 14
+ },
+ {
+  "id": 552,
+  "name": "Гантели #552",
+  "category": "Спорт",
+  "price": "67.84",
+  "stock": 30,
+  "min_stock": 11
+ },
+ {
+  "id": 553,
+  "name": "Планшет #553",
+  "category": "Электроника",
+  "price": "214.40",
+  "stock": 25,
+  "min_stock": 8
+ },
+ {
+  "id": 554,
+  "name": "Гантели #554",
+  "category": "Спорт",
+  "price": "178.28",
+  "stock": 48,
+  "min_stock": 4
+ },
+ {
+  "id": 555,
+  "name": "Коврик #555",
+  "category": "Спорт",
+  "price": "221.92",
+  "stock": 26,
+  "min_stock": 6
+ },
+ {
+  "id": 556,
+  "name": "Кроссовки #556",
+  "category": "Одежда",
+  "price": "73.12",
+  "stock": 49,
+  "min_stock": 2
+ },
+ {
+  "id": 557,
+  "name": "Мяч #557",
+  "category": "Спорт",
+  "price": "121.89",
+  "stock": 40,
+  "min_stock": 14
+ },
+ {
+  "id": 558,
+  "name": "Зарядка #558",
+  "category": "Электроника",
+  "price": "27.36",
+  "stock": 46,
+  "min_stock": 4
+ },
+ {
+  "id": 559,
+  "name": "Гантели #559",
+  "category": "Спорт",
+  "price": "267.89",
+  "stock": 8,
+  "min_stock": 6
+ },
+ {
+  "id": 560,
+  "name": "Учебник Python #560",
+  "category": "Книги",
+  "price": "95.55",
+  "stock": 44,
+  "min_stock": 13
+ },
+ {
+  "id": 561,
+  "name": "Колонка #561",
+  "category": "Электроника",
+  "price": "11.70",
+  "stock": 12,
+  "min_stock": 8
+ },
+ {
+  "id": 562,
+  "name": "Джинсы #562",
+  "category": "Одежда",
+  "price": "140.45",
+  "stock": 42,
+  "min_stock": 12
+ },
+ {
+  "id": 563,
+  "name": "Мышь #563",
+  "category": "Электроника",
+  "price": "95.11",
+  "stock": 28,
+  "min_stock": 8
+ },
+ {
+  "id": 564,
+  "name": "Кружка #564",
+  "category": "Дом",
+  "price": "105.26",
+  "stock": 31,
+  "min_stock": 3
+ },
+ {
+  "id": 565,
+  "name": "Плед #565",
+  "category": "Дом",
+  "price": "265.54",
+  "stock": 9,
+  "min_stock": 12
+ },
+ {
+  "id": 566,
+  "name": "Коврик #566",
+  "category": "Спорт",
+  "price": "267.17",
+  "stock": 32,
+  "min_stock": 2
+ },
+ {
+  "id": 567,
+  "name": "Сковорода #567",
+  "category": "Дом",
+  "price": "113.68",
+  "stock": 27,
+  "min_stock": 14
+ },
+ {
+  "id": 568,
+  "name": "Шапка #568",
+  "category": "Одежда",
+  "price": "164.57",
+  "stock": 21,
+  "min_stock": 4
+ },
+ {
+  "id": 569,
+  "name": "Гантели #569",
+  "category": "Спорт",
+  "price": "148.62",
+  "stock": 26,
+  "min_stock": 6
+ },
+ {
+  "id": 570,
+  "name": "Справочник #570",
+  "category": "Книги",
+  "price": "232.59",
+  "stock": 34,
+  "min_stock": 13
+ },
+ {
+  "id": 571,
+  "name": "Мяч #571",
+  "category": "Спорт",
+  "price": "50.55",
+  "stock": 32,
+  "min_stock": 4
+ },
+ {
+  "id": 572,
+  "name": "Зарядка #572",
+  "category": "Электроника",
+  "price": "209.58",
+  "stock": 40,
+  "min_stock": 4
+ },
+ {
+  "id": 573,
+  "name": "Роман #573",
+  "category": "Книги",
+  "price": "233.77",
+  "stock": 45,
+  "min_stock": 2
+ },
+ {
+  "id": 574,
+  "name": "Велошлем #574",
+  "category": "Спорт",
+  "price": "73.98",
+  "stock": 18,
+  "min_stock": 7
+ },
+ {
+  "id": 575,
+  "name": "Джинсы #575",
+  "category": "Одежда",
+  "price": "9.10",
+  "stock": 34,
+  "min_stock": 14
+ },
+ {
+  "id": 576,
+  "name": "Футболка #576",
+  "category": "Одежда",
+  "price": "38.82",
+  "stock": 60,
+  "min_stock": 5
+ },
+ {
+  "id": 577,
+  "name": "Колонка #577",
+  "category": "Электроника",
+  "price": "96.31",
+  "stock": 47,
+  "min_stock": 3
+ },
+ {
+  "id": 578,
+  "name": "Кроссовки #578",
+  "category": "Одежда",
+  "price": "237.01",
+  "stock": 50,
+  "min_stock": 8
+ },
+ {
+  "id": 579,
+  "name": "Гантели #579",
+  "category": "Спорт",
+  "price": "56.65",
+  "stock": 12,
+  "min_stock": 9
+ },
+ {
+  "id": 580,
+  "name": "Комикс #580",
+  "category": "Книги",
+  "price": "91.82",
+  "stock": 36,
+  "min_stock": 15
+ },
+ {
+  "id": 581,
+  "name": "Плед #581",
+  "category": "Дом",
+  "price": "32.03",
+  "stock": 65,
+  "min_stock": 11
+ },
+ {
+  "id": 582,
+  "name": "Смартфон #582",
+  "category": "Электроника",
+  "price": "289.37",
+  "stock": 27,
+  "min_stock": 15
+ },
+ {
+  "id": 583,
+  "name": "Колонка #583",
+  "category": "Электроника",
+  "price": "138.44",
+  "stock": 39,
+  "min_stock": 8
+ },
+ {
+  "id": 584,
+  "name": "Велошлем #584",
+  "category": "Спорт",
+  "price": "292.03",
+  "stock": 56,
+  "min_stock": 9
+ },
+ {
+  "id": 585,
+  "name": "Мяч #585",
+  "category": "Спорт",
+  "price": "290.68",
+  "stock": 17,
+  "min_stock": 9
+ },
+ {
+  "id": 586,
+  "name": "Роман #586",
+  "category": "Книги",
+  "price": "101.09",
+  "stock": 42,
+  "min_stock": 2
+ },
+ {
+  "id": 587,
+  "name": "Кружка #587",
+  "category": "Дом",
+  "price": "67.90",
+  "stock": 13,
+  "min_stock": 14
+ },
+ {
+  "id": 588,
+  "name": "Комикс #588",
+  "category": "Книги",
+  "price": "9.76",
+  "stock": 25,
+  "min_stock": 7
+ },
+ {
+  "id": 589,
+  "name": "Комикс #589",
+  "category": "Книги",
+  "price": "91.49",
+  "stock": 39,
+  "min_stock": 15
+ },
+ {
+  "id": 590,
+  "name": "Роман #590",
+  "category": "Книги",
+  "price": "51.90",
+  "stock": 42,
+  "min_stock": 10
+ },
+ {
+  "id": 591,
+  "name": "Кружка #591",
+  "category": "Дом",
+  "price": "201.79",
+  "stock": 15,
+  "min_stock": 5
+ },
+ {
+  "id": 592,
+  "name": "Справочник #592",
+  "category": "Книги",
+  "price": "30.87",
+  "stock": 16,
+  "min_stock": 14
+ },
+ {
+  "id": 593,
+  "name": "Кружка #593",
+  "category": "Дом",
+  "price": "210.39",
+  "stock": 46,
+  "min_stock": 8
+ },
+ {
+  "id": 594,
+  "name": "Смартфон #594",
+  "category": "Электроника",
+  "price": "234.59",
+  "stock": 36,
+  "min_stock": 5
+ },
+ {
+  "id": 595,
+  "name": "Планшет #595",
+  "category": "Электроника",
+  "price": "166.44",
+  "stock": 36,
+  "min_stock": 3
+ },
+ {
+  "id": 596,
+  "name": "Чайник #596",
+  "category": "Дом",
+  "price": "144.59",
+  "stock": 39,
+  "min_stock": 3
+ },
+ {
+  "id": 597,
+  "name": "Шапка #597",
+  "category": "Одежда",
+  "price": "217.98",
+  "stock": 16,
+  "min_stock": 4
+ },
+ {
+  "id": 598,
+  "name": "Плед #598",
+  "category": "Дом",
+  "price": "255.30",
+  "stock": 38,
+  "min_stock": 7
+ },
+ {
+  "id": 599,
+  "name": "Справочник #599",
+  "category": "Книги",
+  "price": "146.71",
+  "stock": 9,
+  "min_stock": 3
+ },
+ {
+  "id": 600,
+  "name": "Футболка #600",
+  "category": "Одежда",
+  "price": "11.41",
+  "stock": 49,
+  "min_stock": 10
+ },
+ {
+  "id": 601,
+  "name": "Сковорода #601",
+  "category": "Дом",
+  "price": "109.21",
+  "stock": 18,
+  "min_stock": 12
+ },
+ {
+  "id": 602,
+  "name": "Справочник #602",
+  "category": "Книги",
+  "price": "141.09",
+  "stock": 42,
+  "min_stock": 3
+ },
+ {
+  "id": 603,
+  "name": "Гантели #603",
+  "category": "Спорт",
+  "price": "193.37",
+  "stock": 29,
+  "min_stock": 9
+ },
+ {
+  "id": 604,
+  "name": "Чайник #604",
+  "category": "Дом",
+  "price": "216.81",
+  "stock": 25,
+  "min_stock": 4
+ },
+ {
+  "id": 605,
+  "name": "Мяч #605",
+  "category": "Спорт",
+  "price": "233.50",
+  "stock": 49,
+  "min_stock": 4
+ },
+ {
+  "id": 606,
+  "name": "Шапка #606",
+  "category": "Одежда",
+  "price": "202.33",
+  "stock": 19,
+  "min_stock": 15
+ },
+ {
+  "id": 607,
+  "name": "Велошлем #607",
+  "category": "Спорт",
+  "price": "65.42",
+  "stock": 25,
+  "min_stock": 4
+ },
+ {
+  "id": 608,
+  "name": "Справочник #608",
+  "category": "Книги",
+  "price": "229.99",
+  "stock": 24,
+  "min_stock": 10
+ },
+ {
+  "id": 609,
+  "name": "Мяч #609",
+  "category": "Спорт",
+  "price": "229.32",
+  "stock": 39,
+  "min_stock": 9
+ },
+ {
+  "id": 610,
+  "name": "Плед #610",
+  "category": "Дом",
+  "price": "281.02",
+  "stock": 38,
+  "min_stock": 12
+ },
+ {
+  "id": 611,
+  "name": "Колонка #611",
+  "category": "Электроника",
+  "price": "124.54",
+  "stock": 26,
+  "min_stock": 7
+ },
+ {
+  "id": 612,
+  "name": "Велошлем #612",
+  "category": "Спорт",
+  "price": "169.39",
+  "stock": 59,
+  "min_stock": 2
+ },
+ {
+  "id": 613,
+  "name": "Коврик #613",
+  "category": "Спорт",
+  "price": "135.05",
+  "stock": 41,
+  "min_stock": 10
+ },
+ {
+  "id": 614,
+  "name": "Сковорода #614",
+  "category": "Дом",
+  "price": "225.19",
+  "stock": 54,
+  "min_stock": 6
+ },
+ {
+  "id": 615,
+  "name": "Коврик #615",
+  "category": "Спорт",
+  "price": "50.04",
+  "stock": 62,
+  "min_stock": 5
+ },
+ {
+  "id": 616,
+  "name": "Куртка #616",
+  "category": "Одежда",
+  "price": "45.73",
+  "stock": 63,
+  "min_stock": 11
+ },
+ {
+  "id": 617,
+  "name": "Роман #617",
+  "category": "Книги",
+  "price": "164.93",
+  "stock": 45,
+  "min_stock": 11
+ },
+ {
+  "id": 618,
+  "name": "Чайник #618",
+  "category": "Дом",
+  "price": "46.88",
+  "stock": 50,
+  "min_stock": 11
+ },
+ {
+  "id": 619,
+  "name": "Плед #619",
+  "category": "Дом",
+  "price": "102.91",
+  "stock": 25,
+  "min_stock": 10
+ },
+ {
+  "id": 620,
+  "name": "Куртка #620",
+  "category": "Одежда",
+  "price": "254.28",
+  "stock": 18,
+  "min_stock": 14
+ },
+ {
+  "id": 621,
+  "name": "Кружка #621",
+  "category": "Дом",
+  "price": "262.54",
+  "stock": 50,
+  "min_stock": 3
+ },
+ {
+  "id": 622,
+  "name": "Велошлем #622",
+  "category": "Спорт",
+  "price": "290.11",
+  "stock": 29,
+  "min_stock": 12
+ },
+ {
+  "id": 623,
+  "name": "Мышь #623",
+  "category": "Электроника",
+  "price": "211.19",
+  "stock": 35,
+  "min_stock": 12
+ },
+ {
+  "id": 624,
+  "name": "Куртка #624",
+  "category": "Одежда",
+  "price": "69.47",
+  "stock": 45,
+  "min_stock": 9
+ },
+ {
+  "id": 625,
+  "name": "Смартфон #625",
+  "category": "Электроника",
+  "price": "213.95",
+  "stock": 12,
+  "min_stock": 2
+ },
+ {
+  "id": 626,
+  "name": "Планшет #626",
+  "category": "Электроника",
+  "price": "273.80",
+  "stock": 35,
+  "min_stock": 5
+ },
+ {
+  "id": 627,
+  "name": "Лампа #627",
+  "category": "Дом",
+  "price": "79.26",
+  "stock": 45,
+  "min_stock": 4
+ },
+ {
+  "id": 628,
+  "name": "Футболка #628",
+  "category": "Одежда",
+  "price": "268.34",
+  "stock": 21,
+  "min_stock": 7
+ },
+ {
+  "id": 629,
+  "name": "Кружка #629",
+  "category": "Дом",
+  "price": "2.12",
+  "stock": 14,
+  "min_stock": 13
+ },
+ {
+  "id": 630,
+  "name": "Мышь #630",
+  "category": "Электроника",
+  "price": "119.77",
+  "stock": 34,
+  "min_stock": 14
+ },
+ {
+  "id": 631,
+  "name": "Планшет #631",
+  "category": "Электроника",
+  "price": "96.26",
+  "stock": 33,
+  "min_stock": 9
+ },
+ {
+  "id": 632,
+  "name": "Колонка #632",
+  "category": "Электроника",
+  "price": "243.96",
+  "stock": 40,
+  "min_stock": 14
+ },
+ {
+  "id": 633,
+  "name": "Смартфон #633",
+  "category": "Электроника",
+  "price": "254.78",
+  "stock": 51,
+  "min_stock": 7
+ },
+ {
+  "id": 634,
+  "name": "Шапка #634",
+  "category": "Одежда",
+  "price": "290.45",
+  "stock": 27,
+  "min_stock": 4
+ },
+ {
+  "id": 635,
+  "name": "Футболка #635",
+  "category": "Одежда",
+  "price": "16.35",
+  "stock": 12,
+  "min_stock": 7
+ },
+ {
+  "id": 636,
+  "name": "Кроссовки #636",
+  "category": "Одежда",
+  "price": "281.25",
+  "stock": 50,
+  "min_stock": 12
+ },
+ {
+  "id": 637,
+  "name": "Куртка #637",
+  "category": "Одежда",
+  "price": "154.67",
+  "stock": 26,
+  "min_stock": 11
+ },
+ {
+  "id": 638,
+  "name": "Лампа #638",
+  "category": "Дом",
+  "price": "215.16",
+  "stock": 22,
+  "min_stock": 8
+ },
+ {
+  "id": 639,
+  "name": "Шапка #639",
+  "category": "Одежда",
+  "price": "125.84",
+  "stock": 39,
+  "min_stock": 12
+ },
+ {
+  "id": 640,
+  "name": "Футболка #640",
+  "category": "Одежда",
+  "price": "28.78",
+  "stock": 18,
+  "min_stock": 11
+ },
+ {
+  "id": 641,
+  "name": "Плед #641",
+  "category": "Дом",
+  "price": "51.26",
+  "stock": 46,
+  "min_stock": 15
+ },
+ {
+  "id": 642,
+  "name": "Кружка #642",
+  "category": "Дом",
+  "price": "58.75",
+  "stock": 26,
+  "min_stock": 13
+ },
+ {
+  "id": 643,
+  "name": "Мышь #643",
+  "category": "Электроника",
+  "price": "43.84",
+  "stock": 16,
+  "min_stock": 13
+ },
+ {
+  "id": 644,
+  "name": "Роман #644",
+  "category": "Книги",
+  "price": "131.69",
+  "stock": 15,
+  "min_stock": 10
+ },
+ {
+  "id": 645,
+  "name": "Учебник Python #645",
+  "category": "Книги",
+  "price": "139.27",
+  "stock": 22,
+  "min_stock": 7
+ },
+ {
+  "id": 646,
+  "name": "Кружка #646",
+  "category": "Дом",
+  "price": "221.27",
+  "stock": 36,
+  "min_stock": 4
+ },
+ {
+  "id": 647,
+  "name": "Сковорода #647",
+  "category": "Дом",
+  "price": "257.03",
+  "stock": 36,
+  "min_stock": 7
+ },
+ {
+  "id": 648,
+  "name": "Шапка #648",
+  "category": "Одежда",
+  "price": "68.00",
+  "stock": 34,
+  "min_stock": 10
+ },
+ {
+  "id": 649,
+  "name": "Гантели #649",
+  "category": "Спорт",
+  "price": "248.17",
+  "stock": 24,
+  "min_stock": 8
+ },
+ {
+  "id": 650,
+  "name": "Велошлем #650",
+  "category": "Спорт",
+  "price": "222.74",
+  "stock": 19,
+  "min_stock": 12
+ },
+ {
+  "id": 651,
+  "name": "Коврик #651",
+  "category": "Спорт",
+  "price": "247.30",
+  "stock": 10,
+  "min_stock": 10
+ },
+ {
+  "id": 652,
+  "name": "Куртка #652",
+  "category": "Одежда",
+  "price": "24.38",
+  "stock": 36,
+  "min_stock": 11
+ },
+ {
+  "id": 653,
+  "name": "Шапка #653",
+  "category": "Одежда",
+  "price": "202.66",
+  "stock": 19,
+  "min_stock": 12
+ },
+ {
+  "id": 654,
+  "name": "Роман #654",
+  "category": "Книги",
+  "price": "105.16",
+  "stock": 29,
+  "min_stock": 11
+ },
+ {
+  "id": 655,
+  "name": "Мяч #655",
+  "category": "Спорт",
+  "price": "255.80",
+  "stock": 15,
+  "min_stock": 8
+ },
+ {
+  "id": 656,
+  "name": "Шапка #656",
+  "category": "Одежда",
+  "price": "98.22",
+  "stock": 48,
+  "min_stock": 7
+ },
+ {
+  "id": 657,
+  "name": "Кружка #657",
+  "category": "Дом",
+  "price": "190.81",
+  "stock": 43,
+  "min_stock": 11
+ },
+ {
+  "id": 658,
+  "name": "Роман #658",
+  "category": "Книги",
+  "price": "175.06",
+  "stock": 30,
+  "min_stock": 6
+ },
+ {
+  "id": 659,
+  "name": "Сковорода #659",
+  "category": "Дом",
+  "price": "13.98",
+  "stock": 37,
+  "min_stock": 7
+ },
+ {
+  "id": 660,
+  "name": "Кроссовки #660",
+  "category": "Одежда",
+  "price": "27.92",
+  "stock": 61,
+  "min_stock": 14
+ },
+ {
+  "id": 661,
+  "name": "Плед #661",
+  "category": "Дом",
+  "price": "148.75",
+  "stock": 34,
+  "min_stock": 10
+ },
+ {
+  "id": 662,
+  "name": "Шапка #662",
+  "category": "Одежда",
+  "price": "248.59",
+  "stock": 16,
+  "min_stock": 11
+ },
+ {
+  "id": 663,
+  "name": "Роман #663",
+  "category": "Книги",
+  "price": "193.78",
+  "stock": 50,
+  "min_stock": 12
+ },
+ {
+  "id": 664,
+  "name": "Планшет #664",
+  "category": "Электроника",
+  "price": "31.07",
+  "stock": 54,
+  "min_stock": 2
+ },
+ {
+  "id": 665,
+  "name": "Кроссовки #665",
+  "category": "Одежда",
+  "price": "18.41",
+  "stock": 53,
+  "min_stock": 6
+ },
+ {
+  "id": 666,
+  "name": "Планшет #666",
+  "category": "Электроника",
+  "price": "124.00",
+  "stock": 28,
+  "min_stock": 12
+ },
+ {
+  "id": 667,
+  "name": "Мяч #667",
+  "category": "Спорт",
+  "price": "260.31",
+  "stock": 47,
+  "min_stock": 5
+ },
+ {
+  "id": 668,
+  "name": "Учебник Python #668",
+  "category": "Книги",
+  "price": "12.06",
+  "stock": 44,
+  "min_stock": 9
+ },
+ {
+  "id": 669,
+  "name": "Джинсы #669",
+  "category": "Одежда",
+  "price": "193.79",
+  "stock": 29,
+  "min_stock": 12
+ },
+ {
+  "id": 670,
+  "name": "Велошлем #670",
+  "category": "Спорт",
+  "price": "209.28",
+  "stock": 29,
+  "min_stock": 3
+ },
+ {
+  "id": 671,
+  "name": "Комикс #671",
+  "category": "Книги",
+  "price": "51.20",
+  "stock": 51,
+  "min_stock": 3
+ },
+ {
+  "id": 672,
+  "name": "Гантели #672",
+  "category": "Спорт",
+  "price": "234.04",
+  "stock": 38,
+  "min_stock": 15
+ },
+ {
+  "id": 673,
+  "name": "Гантели #673",
+  "category": "Спорт",
+  "price": "62.81",
+  "stock": 18,
+  "min_stock": 4
+ },
+ {
+  "id": 674,
+  "name": "Мышь #674",
+  "category": "Электроника",
+  "price": "71.60",
+  "stock": 27,
+  "min_stock": 14
+ },
+ {
+  "id": 675,
+  "name": "Гантели #675",
+  "category": "Спорт",
+  "price": "116.21",
+  "stock": 30,
+  "min_stock": 10
+ },
+ {
+  "id": 676,
+  "name": "Шапка #676",
+  "category": "Одежда",
+  "price": "123.63",
+  "stock": 26,
+  "min_stock": 2
+ },
+ {
+  "id": 677,
+  "name": "Справочник #677",
+  "category": "Книги",
+  "price": "189.51",
+  "stock": 55,
+  "min_stock": 4
+ },
+ {
+  "id": 678,
+  "name": "Гантели #678",
+  "category": "Спорт",
+  "price": "192.51",
+  "stock": 28,
+  "min_stock": 3
+ },
+ {
+  "id": 679,
+  "name": "Учебник Python #679",
+  "category": "Книги",
+  "price": "46.66",
+  "stock": 54,
+  "min_stock": 13
+ },
+ {
+  "id": 680,
+  "name": "Сковорода #680",
+  "category": "Дом",
+  "price": "220.45",
+  "stock": 43,
+  "min_stock": 5
+ },
+ {
+  "id": 681,
+  "name": "Зарядка #681",
+  "category": "Электроника",
+  "price": "190.26",
+  "stock": 22,
+  "min_stock": 10
+ },
+ {
+  "id": 682,
+  "name": "Чайник #682",
+  "category": "Дом",
+  "price": "216.97",
+  "stock": 39,
+  "min_stock": 10
+ },
+ {
+  "id": 683,
+  "name": "Роман #683",
+  "category": "Книги",
+  "price": "291.53",
+  "stock": 56,
+  "min_stock": 11
+ },
+ {
+  "id": 684,
+  "name": "Плед #684",
+  "category": "Дом",
+  "price": "176.53",
+  "stock": 38,
+  "min_stock": 11
+ },
+ {
+  "id": 685,
+  "name": "Гантели #685",
+  "category": "Спорт",
+  "price": "58.82",
+  "stock": 40,
+  "min_stock": 11
+ },
+ {
+  "id": 686,
+  "name": "Учебник Python #686",
+  "category": "Книги",
+  "price": "291.74",
+  "stock": 50,
+  "min_stock": 4
+ },
+ {
+  "id": 687,
+  "name": "Кроссовки #687",
+  "category": "Одежда",
+  "price": "194.06",
+  "stock": 49,
+  "min_stock": 12
+ },
+ {
+  "id": 688,
+  "name": "Мышь #688",
+  "category": "Электроника",
+  "price": "32.48",
+  "stock": 21,
+  "min_stock": 11
+ },
+ {
+  "id": 689,
+  "name": "Планшет #689",
+  "category": "Электроника",
+  "price": "52.15",
+  "stock": 35,
+  "min_stock": 12
+ },
+ {
+  "id": 690,
+  "name": "Колонка #690",
+  "category": "Электроника",
+  "price": "144.32",
+  "stock": 56,
+  "min_stock": 14
+ },
+ {
+  "id": 691,
+  "name": "Смартфон #691",
+  "category": "Электроника",
+  "price": "150.63",
+  "stock": 7,
+  "min_stock": 6
+ },
+ {
+  "id": 692,
+  "name": "Колонка #692",
+  "category": "Электроника",
+  "price": "273.14",
+  "stock": 23,
+  "min_stock": 11
+ },
+ {
+  "id": 693,
+  "name": "Комикс #693",
+  "category": "Книги",
+  "price": "59.24",
+  "stock": 46,
+  "min_stock": 14
+ },
+ {
+  "id": 694,
+  "name": "Сковорода #694",
+  "category": "Дом",
+  "price": "295.71",
+  "stock": 41,
+  "min_stock": 6
+ },
+ {
+  "id": 695,
+  "name": "Мяч #695",
+  "category": "Спорт",
+  "price": "214.46",
+  "stock": 43,
+  "min_stock": 5
+ },
+ {
+  "id": 696,
+  "name": "Справочник #696",
+  "category": "Книги",
+  "price": "87.79",
+  "stock": 38,
+  "min_stock": 15
+ },
+ {
+  "id": 697,
+  "name": "Зарядка #697",
+  "category": "Электроника",
+  "price": "227.24",
+  "stock": 64,
+  "min_stock": 9
+ },
+ {
+  "id": 698,
+  "name": "Коврик #698",
+  "category": "Спорт",
+  "price": "95.95",
+  "stock": 15,
+  "min_stock": 5
+ },
+ {
+  "id": 699,
+  "name": "Велошлем #699",
+  "category": "Спорт",
+  "price": "96.41",
+  "stock": 36,
+  "min_stock": 9
+ },
+ {
+  "id": 700,
+  "name": "Коврик #700",
+  "category": "Спорт",
+  "price": "75.54",
+  "stock": 45,
+  "min_stock": 9
+ },
+ {
+  "id": 701,
+  "name": "Куртка #701",
+  "category": "Одежда",
+  "price": "203.17",
+  "stock": 38,
+  "min_stock": 13
+ },
+ {
+  "id": 702,
+  "name": "Кроссовки #702",
+  "category": "Одежда",
+  "price": "110.05",
+  "stock": 61,
+  "min_stock": 12
+ },
+ {
+  "id": 703,
+  "name": "Справочник #703",
+  "category": "Книги",
+  "price": "174.02",
+  "stock": 56,
+  "min_stock": 5
+ },
+ {
+  "id": 704,
+  "name": "Куртка #704",
+  "category": "Одежда",
+  "price": "20.42",
+  "stock": 53,
+  "min_stock": 14
+ },
+ {
+  "id": 705,
+  "name": "Плед #705",
+  "category": "Дом",
+  "price": "42.08",
+  "stock": 47,
+  "min_stock": 4
+ },
+ {
+  "id": 706,
+  "name": "Футболка #706",
+  "category": "Одежда",
+  "price": "148.99",
+  "stock": 40,
+  "min_stock": 2
+ },
+ {
+  "id": 707,
+  "name": "Учебник Python #707",
+  "category": "Книги",
+  "price": "295.92",
+  "stock": 22,
+  "min_stock": 14
+ },
+ {
+  "id": 708,
+  "name": "Справочник #708",
+  "category": "Книги",
+  "price": "12.22",
+  "stock": 15,
+  "min_stock": 4
+ },
+ {
+  "id": 709,
+  "name": "Наушники #709",
+  "category": "Электроника",
+  "price": "218.37",
+  "stock": 37,
+  "min_stock": 3
+ },
+ {
+  "id": 710,
+  "name": "Чайник #710",
+  "category": "Дом",
+  "price": "69.21",
+  "stock": 9,
+  "min_stock": 14
+ },
+ {
+  "id": 711,
+  "name": "Наушники #711",
+  "category": "Электроника",
+  "price": "216.55",
+  "stock": 34,
+  "min_stock": 15
+ },
+ {
+  "id": 712,
+  "name": "Комикс #712",
+  "category": "Книги",
+  "price": "97.22",
+  "stock": 55,
+  "min_stock": 9
+ },
+ {
+  "id": 713,
+  "name": "Лампа #713",
+  "category": "Дом",
+  "price": "239.43",
+  "stock": 60,
+  "min_stock": 8
+ },
+ {
+  "id": 714,
+  "name": "Чайник #714",
+  "category": "Дом",
+  "price": "93.68",
+  "stock": 38,
+  "min_stock": 4
+ },
+ {
+  "id": 715,
+  "name": "Роман #715",
+  "category": "Книги",
+  "price": "142.91",
+  "stock": 28,
+  "min_stock": 6
+ },
+ {
+  "id": 716,
+  "name": "Комикс #716",
+  "category": "Книги",
+  "price": "145.14",
+  "stock": 34,
+  "min_stock": 2
+ },
+ {
+  "id": 717,
+  "name": "Комикс #717",
+  "category": "Книги",
+  "price": "221.19",
+  "stock": 47,
+  "min_stock": 2
+ },
+ {
+  "id": 718,
+  "name": "Справочник #718",
+  "category": "Книги",
+  "price": "17.14",
+  "stock": 62,
+  "min_stock": 6
+ },
+ {
+  "id": 719,
+  "name": "Куртка #719",
+  "category": "Одежда",
+  "price": "95.08",
+  "stock": 34,
+  "min_stock": 15
+ },
+ {
+  "id": 720,
+  "name": "Комикс #720",
+  "category": "Книги",
+  "price": "210.61",
+  "stock": 43,
+  "min_stock": 2
+ },
+ {
+  "id": 721,
+  "name": "Куртка #721",
+  "category": "Одежда",
+  "price": "189.58",
+  "stock": 15,
+  "min_stock": 8
+ },
+ {
+  "id": 722,
+  "name": "Мышь #722",
+  "category": "Электроника",
+  "price": "229.79",
+  "stock": 65,
+  "min_stock": 8
+ },
+ {
+  "id": 723,
+  "name": "Коврик #723",
+  "category": "Спорт",
+  "price": "198.48",
+  "stock": 17,
+  "min_stock": 4
+ },
+ {
+  "id": 724,
+  "name": "Кроссовки #724",
+  "category": "Одежда",
+  "price": "37.60",
+  "stock": 33,
+  "min_stock": 9
+ },
+ {
+  "id": 725,
+  "name": "Мышь #725",
+  "category": "Электроника",
+  "price": "162.02",
+  "stock": 49,
+  "min_stock": 7
+ },
+ {
+  "id": 726,
+  "name": "Плед #726",
+  "category": "Дом",
+  "price": "215.65",
+  "stock": 37,
+  "min_stock": 4
+ },
+ {
+  "id": 727,
+  "name": "Мяч #727",
+  "category": "Спорт",
+  "price": "246.34",
+  "stock": 44,
+  "min_stock": 15
+ },
+ {
+  "id": 728,
+  "name": "Учебник Python #728",
+  "category": "Книги",
+  "price": "41.72",
+  "stock": 21,
+  "min_stock": 8
+ },
+ {
+  "id": 729,
+  "name": "Гантели #729",
+  "category": "Спорт",
+  "price": "225.23",
+  "stock": 66,
+  "min_stock": 5
+ },
+ {
+  "id": 730,
+  "name": "Мяч #730",
+  "category": "Спорт",
+  "price": "34.17",
+  "stock": 11,
+  "min_stock": 6
+ },
+ {
+  "id": 731,
+  "name": "Справочник #731",
+  "category": "Книги",
+  "price": "54.88",
+  "stock": 36,
+  "min_stock": 3
+ },
+ {
+  "id": 732,
+  "name": "Велошлем #732",
+  "category": "Спорт",
+  "price": "253.37",
+  "stock": 54,
+  "min_stock": 15
+ },
+ {
+  "id": 733,
+  "name": "Лампа #733",
+  "category": "Дом",
+  "price": "221.36",
+  "stock": 28,
+  "min_stock": 6
+ },
+ {
+  "id": 734,
+  "name": "Чайник #734",
+  "category": "Дом",
+  "price": "133.18",
+  "stock": 47,
+  "min_stock": 7
+ },
+ {
+  "id": 735,
+  "name": "Чайник #735",
+  "category": "Дом",
+  "price": "134.90",
+  "stock": 32,
+  "min_stock": 11
+ },
+ {
+  "id": 736,
+  "name": "Джинсы #736",
+  "category": "Одежда",
+  "price": "288.54",
+  "stock": 38,
+  "min_stock": 7
+ },
+ {
+  "id": 737,
+  "name": "Смартфон #737",
+  "category": "Электроника",
+  "price": "154.12",
+  "stock": 34,
+  "min_stock": 5
+ },
+ {
+  "id": 738,
+  "name": "Колонка #738",
+  "category": "Электроника",
+  "price": "298.81",
+  "stock": 11,
+  "min_stock": 2
+ },
+ {
+  "id": 739,
+  "name": "Сковорода #739",
+  "category": "Дом",
+  "price": "5.18",
+  "stock": 19,
+  "min_stock": 9
+ },
+ {
+  "id": 740,
+  "name": "Сковорода #740",
+  "category": "Дом",
+  "price": "297.76",
+  "stock": 33,
+  "min_stock": 3
+ },
+ {
+  "id": 741,
+  "name": "Наушники #741",
+  "category": "Электроника",
+  "price": "129.08",
+  "stock": 24,
+  "min_stock": 5
+ },
+ {
+  "id": 742,
+  "name": "Велошлем #742",
+  "category": "Спорт",
+  "price": "229.43",
+  "stock": 39,
+  "min_stock": 3
+ },
+ {
+  "id": 743,
+  "name": "Комикс #743",
+  "category": "Книги",
+  "price": "129.14",
+  "stock": 32,
+  "min_stock": 8
+ },
+ {
+  "id": 744,
+  "name": "Коврик #744",
+  "category": "Спорт",
+  "price": "97.35",
+  "stock": 42,
+  "min_stock": 8
+ },
+ {
+  "id": 745,
+  "name": "Гантели #745",
+  "category": "Спорт",
+  "price": "101.52",
+  "stock": 47,
+  "min_stock": 10
+ },
+ {
+  "id": 746,
+  "name": "Футболка #746",
+  "category": "Одежда",
+  "price": "221.26",
+  "stock": 45,
+  "min_stock": 2
+ },
+ {
+  "id": 747,
+  "name": "Колонка #747",
+  "category": "Электроника",
+  "price": "34.51",
+  "stock": 21,
+  "min_stock": 11
+ },
+ {
+  "id": 748,
+  "name": "Колонка #748",
+  "category": "Электроника",
+  "price": "42.77",
+  "stock": 31,
+  "min_stock": 4
+ },
+ {
+  "id": 749,
+  "name": "Плед #749",
+  "category": "Дом",
+  "price": "81.62",
+  "stock": 29,
+  "min_stock": 11
+ },
+ {
+  "id": 750,
+  "name": "Лампа #750",
+  "category": "Дом",
+  "price": "257.34",
+  "stock": 42,
+  "min_stock": 10
+ },
+ {
+  "id": 751,
+  "name": "Куртка #751",
+  "category": "Одежда",
+  "price": "293.33",
+  "stock": 63,
+  "min_stock": 11
+ },
+ {
+  "id": 752,
+  "name": "Учебник Python #752",
+  "category": "Книги",
+  "price": "240.35",
+  "stock": 19,
+  "min_stock": 10
+ },
+ {
+  "id": 753,
+  "name": "Наушники #753",
+  "category": "Электроника",
+  "price": "46.08",
+  "stock": 57,
+  "min_stock": 3
+ },
+ {
+  "id": 754,
+  "name": "Коврик #754",
+  "category": "Спорт",
+  "price": "15.44",
+  "stock": 34,
+  "min_stock": 8
+ },
+ {
+  "id": 755,
+  "name": "Мяч #755",
+  "category": "Спорт",
+  "price": "37.33",
+  "stock": 22,
+  "min_stock": 10
+ },
+ {
+  "id": 756,
+  "name": "Справочник #756",
+  "category": "Книги",
+  "price": "107.76",
+  "stock": 45,
+  "min_stock": 14
+ },
+ {
+  "id": 757,
+  "name": "Колонка #757",
+  "category": "Электроника",
+  "price": "167.48",
+  "stock": 32,
+  "min_stock": 3
+ },
+ {
+  "id": 758,
+  "name": "Мяч #758",
+  "category": "Спорт",
+  "price": "296.00",
+  "stock": 21,
+  "min_stock": 11
+ },
+ {
+  "id": 759,
+  "name": "Мышь #759",
+  "category": "Электроника",
+  "price": "16.46",
+  "stock": 18,
+  "min_stock": 14
+ },
+ {
+  "id": 760,
+  "name": "Плед #760",
+  "category": "Дом",
+  "price": "55.25",
+  "stock": 50,
+  "min_stock": 15
+ },
+ {
+  "id": 761,
+  "name": "Велошлем #761",
+  "category": "Спорт",
+  "price": "55.27",
+  "stock": 36,
+  "min_stock": 10
+ },
+ {
+  "id": 762,
+  "name": "Коврик #762",
+  "category": "Спорт",
+  "price": "243.20",
+  "stock": 20,
+  "min_stock": 3
+ },
+ {
+  "id": 763,
+  "name": "Учебник Python #763",
+  "category": "Книги",
+  "price": "261.48",
+  "stock": 26,
+  "min_stock": 14
+ },
+ {
+  "id": 764,
+  "name": "Справочник #764",
+  "category": "Книги",
+  "price": "143.98",
+  "stock": 34,
+  "min_stock": 14
+ },
+ {
+  "id": 765,
+  "name": "Куртка #765",
+  "category": "Одежда",
+  "price": "73.08",
+  "stock": 37,
+  "min_stock": 10
+ },
+ {
+  "id": 766,
+  "name": "Гантели #766",
+  "category": "Спорт",
+  "price": "69.58",
+  "stock": 28,
+  "min_stock": 5
+ },
+ {
+  "id": 767,
+  "name": "Джинсы #767",
+  "category": "Одежда",
+  "price": "17.70",
+  "stock": 25,
+  "min_stock": 9
+ },
+ {
+  "id": 768,
+  "name": "Кроссовки #768",
+  "category": "Одежда",
+  "price": "217.95",
+  "stock": 53,
+  "min_stock": 10
+ },
+ {
+  "id": 769,
+  "name": "Футболка #769",
+  "category": "Одежда",
+  "price": "234.33",
+  "stock": 23,
+  "min_stock": 6
+ },
+ {
+  "id": 770,
+  "name": "Роман #770",
+  "category": "Книги",
+  "price": "123.38",
+  "stock": 46,
+  "min_stock": 15
+ },
+ {
+  "id": 771,
+  "name": "Кружка #771",
+  "category": "Дом",
+  "price": "2.83",
+  "stock": 30,
+  "min_stock": 5
+ },
+ {
+  "id": 772,
+  "name": "Шапка #772",
+  "category": "Одежда",
+  "price": "195.89",
+  "stock": 28,
+  "min_stock": 14
+ },
+ {
+  "id": 773,
+  "name": "Учебник Python #773",
+  "category": "Книги",
+  "price": "71.43",
+  "stock": 27,
+  "min_stock": 7
+ },
+ {
+  "id": 774,
+  "name": "Плед #774",
+  "category": "Дом",
+  "price": "193.78",
+  "stock": 58,
+  "min_stock": 5
+ },
+ {
+  "id": 775,
+  "name": "Зарядка #775",
+  "category": "Электроника",
+  "price": "215.36",
+  "stock": 55,
+  "min_stock": 14
+ },
+ {
+  "id": 776,
+  "name": "Кружка #776",
+  "category": "Дом",
+  "price": "137.58",
+  "stock": 21,
+  "min_stock": 11
+ },
+ {
+  "id": 777,
+  "name": "Гантели #777",
+  "category": "Спорт",
+  "price": "269.64",
+  "stock": 43,
+  "min_stock": 2
+ },
+ {
+  "id": 778,
+  "name": "Плед #778",
+  "category": "Дом",
+  "price": "130.75",
+  "stock": 48,
+  "min_stock": 9
+ },
+ {
+  "id": 779,
+  "name": "Кроссовки #779",
+  "category": "Одежда",
+  "price": "103.14",
+  "stock": 43,
+  "min_stock": 4
+ },
+ {
+  "id": 780,
+  "name": "Шапка #780",
+  "category": "Одежда",
+  "price": "22.35",
+  "stock": 60,
+  "min_stock": 11
+ },
+ {
+  "id": 781,
+  "name": "Шапка #781",
+  "category": "Одежда",
+  "price": "233.43",
+  "stock": 18,
+  "min_stock": 3
+ },
+ {
+  "id": 782,
+  "name": "Кружка #782",
+  "category": "Дом",
+  "price": "232.24",
+  "stock": 44,
+  "min_stock": 6
+ },
+ {
+  "id": 783,
+  "name": "Сковорода #783",
+  "category": "Дом",
+  "price": "15.64",
+  "stock": 30,
+  "min_stock": 6
+ },
+ {
+  "id": 784,
+  "name": "Планшет #784",
+  "category": "Электроника",
+  "price": "101.27",
+  "stock": 23,
+  "min_stock": 12
+ },
+ {
+  "id": 785,
+  "name": "Мяч #785",
+  "category": "Спорт",
+  "price": "259.25",
+  "stock": 35,
+  "min_stock": 8
+ },
+ {
+  "id": 786,
+  "name": "Футболка #786",
+  "category": "Одежда",
+  "price": "249.08",
+  "stock": 21,
+  "min_stock": 3
+ },
+ {
+  "id": 787,
+  "name": "Чайник #787",
+  "category": "Дом",
+  "price": "82.60",
+  "stock": 19,
+  "min_stock": 12
+ },
+ {
+  "id": 788,
+  "name": "Кружка #788",
+  "category": "Дом",
+  "price": "103.28",
+  "stock": 24,
+  "min_stock": 5
+ },
+ {
+  "id": 789,
+  "name": "Лампа #789",
+  "category": "Дом",
+  "price": "15.62",
+  "stock": 11,
+  "min_stock": 11
+ },
+ {
+  "id": 790,
+  "name": "Плед #790",
+  "category": "Дом",
+  "price": "48.96",
+  "stock": 24,
+  "min_stock": 14
+ }
+]
